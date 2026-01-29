@@ -1,0 +1,3947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTICE decoding="eng" type="branch">
+   <WORK>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/e4b0b5e7-0c3a-11e4-a7d0-01aa75ed71a1</VALUE>
+         <IDENTIFIER>e4b0b5e7-0c3a-11e4-a7d0-01aa75ed71a1</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/51984PC0323</VALUE>
+            <IDENTIFIER>51984PC0323</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/comnat/COM_1984_0323_FIN</VALUE>
+            <IDENTIFIER>COM_1984_0323_FIN</IDENTIFIER>
+            <TYPE>comnat</TYPE>
+         </URI>
+      </SAMEAS>
+      <ID_SECTOR type="data">
+         <VALUE>5</VALUE>
+      </ID_SECTOR>
+      <RESOURCE_LEGAL_NUMBER_NATURAL_CELEX type="data">
+         <VALUE>0323</VALUE>
+      </RESOURCE_LEGAL_NUMBER_NATURAL_CELEX>
+      <RESOURCE_LEGAL_PROPOSES_TO_AMEND_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/c3d4d7ea-2467-4ab7-886e-dd0387840d34</VALUE>
+            <IDENTIFIER>c3d4d7ea-2467-4ab7-886e-dd0387840d34</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/reg/1971/619/oj</VALUE>
+               <IDENTIFIER>reg:1971:619:oj</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/31971R0619</VALUE>
+               <IDENTIFIER>31971R0619</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1971_072_R_0002_005</VALUE>
+               <IDENTIFIER>JOL_1971_072_R_0002_005</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <ANNOTATION>
+            <ROLE2>{R|http://publications.europa.eu/resource/authority/fd_375/R}</ROLE2>
+            <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 3.1</REFERENCE_TO_MODIFIED_LOCATION>
+            <TYPE_OF_LINK_TARGET>EA</TYPE_OF_LINK_TARGET>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:05/02/2015 14:44:31</BUILD_INFO>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_PROPOSES_TO_AMEND_RESOURCE_LEGAL>
+      <RESOURCE_LEGAL_ID_CELEX type="data">
+         <VALUE>51984PC0323</VALUE>
+      </RESOURCE_LEGAL_ID_CELEX>
+      <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE type="concept_level">
+         <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3 type="concept">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/036065</VALUE>
+               <IDENTIFIER>036065</IDENTIFIER>
+               <TYPE>dir-eu-legal-act</TYPE>
+            </URI>
+            <OP-CODE>036065</OP-CODE>
+            <IDENTIFIER>036065</IDENTIFIER>
+            <PREFLABEL>Flax and hemp</PREFLABEL>
+         </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3>
+         <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2 type="concept">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/0360</VALUE>
+               <IDENTIFIER>0360</IDENTIFIER>
+               <TYPE>dir-eu-legal-act</TYPE>
+            </URI>
+            <OP-CODE>0360</OP-CODE>
+            <IDENTIFIER>0360</IDENTIFIER>
+            <PREFLABEL>Products subject to market organisation</PREFLABEL>
+         </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2>
+         <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1 type="concept">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/03</VALUE>
+               <IDENTIFIER>03</IDENTIFIER>
+               <TYPE>dir-eu-legal-act</TYPE>
+            </URI>
+            <OP-CODE>03</OP-CODE>
+            <IDENTIFIER>03</IDENTIFIER>
+            <PREFLABEL>Agriculture</PREFLABEL>
+         </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1>
+      </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE>
+      <SERVICE_RESPONSIBLE type="data">
+         <VALUE>DG06</VALUE>
+      </SERVICE_RESPONSIBLE>
+      <YEAR type="data">
+         <VALUE>1984</VALUE>
+      </YEAR>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://eurovoc.europa.eu/4081</VALUE>
+            <IDENTIFIER>4081</IDENTIFIER>
+            <TYPE>EUROVOC</TYPE>
+         </URI>
+         <IDENTIFIER>4081</IDENTIFIER>
+         <PREFLABEL>seed</PREFLABEL>
+      </IS_ABOUT>
+      <RESOURCE_LEGAL_YEAR type="data">
+         <VALUE>1984</VALUE>
+      </RESOURCE_LEGAL_YEAR>
+      <DATE_DOCUMENT type="date">
+         <VALUE>1984-06-12</VALUE>
+         <YEAR>1984</YEAR>
+         <MONTH>06</MONTH>
+         <DAY>12</DAY>
+      </DATE_DOCUMENT>
+      <DATE type="date">
+         <VALUE>1984-07-16</VALUE>
+         <YEAR>1984</YEAR>
+         <MONTH>07</MONTH>
+         <DAY>16</DAY>
+         <ANNOTATION>
+            <COMMENT_ON_DATE>{YD|http://publications.europa.eu/resource/authority/fd_330/YD} {384R2059|http://publications.europa.eu/resource/celex/31984R2059}</COMMENT_ON_DATE>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:05/02/2015 14:44:31</BUILD_INFO>
+         </ANNOTATION>
+      </DATE>
+      <WORK_PART_OF_EVENT_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/8274aabd-d0fe-11e1-905c-01aa75ed71a1.0001</VALUE>
+            <IDENTIFIER>8274aabd-d0fe-11e1-905c-01aa75ed71a1.0001</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/pegase/117934.183052</VALUE>
+               <IDENTIFIER>117934.183052</IDENTIFIER>
+               <TYPE>pegase</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_PART_OF_EVENT_LEGAL>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>celex:51984PC0323</VALUE>
+      </WORK_ID_DOCUMENT>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+            <IDENTIFIER>CELEX</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>CELEX</OP-CODE>
+         <IDENTIFIER>CELEX</IDENTIFIER>
+         <PREFLABEL>CELEX</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <PART_OF type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+            <IDENTIFIER>CELEX</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>CELEX</OP-CODE>
+         <IDENTIFIER>CELEX</IDENTIFIER>
+         <PREFLABEL>CELEX</PREFLABEL>
+      </PART_OF>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://eurovoc.europa.eu/3579</VALUE>
+            <IDENTIFIER>3579</IDENTIFIER>
+            <TYPE>EUROVOC</TYPE>
+         </URI>
+         <IDENTIFIER>3579</IDENTIFIER>
+         <PREFLABEL>import restriction</PREFLABEL>
+         <ALTLABEL>import ban</ALTLABEL>
+         <ALTLABEL>suspension of imports</ALTLABEL>
+         <ALTLABEL>limit on imports</ALTLABEL>
+      </IS_ABOUT>
+      <IDENTIFIER type="data">
+         <VALUE>comnat:COM_1984_0323_FIN</VALUE>
+      </IDENTIFIER>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>5</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_NUMBER_NATURAL_CELEX type="data">
+                  <VALUE>0323</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL_CELEX>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>51984PC0323</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/036065</VALUE>
+                        <IDENTIFIER>036065</IDENTIFIER>
+                        <TYPE>dir-eu-legal-act</TYPE>
+                     </URI>
+                     <OP-CODE>036065</OP-CODE>
+                     <IDENTIFIER>036065</IDENTIFIER>
+                     <PREFLABEL>Flax and hemp</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/0360</VALUE>
+                        <IDENTIFIER>0360</IDENTIFIER>
+                        <TYPE>dir-eu-legal-act</TYPE>
+                     </URI>
+                     <OP-CODE>0360</OP-CODE>
+                     <IDENTIFIER>0360</IDENTIFIER>
+                     <PREFLABEL>Products subject to market organisation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/03</VALUE>
+                        <IDENTIFIER>03</IDENTIFIER>
+                        <TYPE>dir-eu-legal-act</TYPE>
+                     </URI>
+                     <OP-CODE>03</OP-CODE>
+                     <IDENTIFIER>03</IDENTIFIER>
+                     <PREFLABEL>Agriculture</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1>
+               </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE>
+               <YEAR type="data">
+                  <VALUE>1984</VALUE>
+               </YEAR>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/4081</VALUE>
+                     <IDENTIFIER>4081</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>4081</IDENTIFIER>
+                  <PREFLABEL>seed</PREFLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1984</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <PART_OF type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+                     <IDENTIFIER>CELEX</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>CELEX</OP-CODE>
+                  <IDENTIFIER>CELEX</IDENTIFIER>
+                  <PREFLABEL>CELEX</PREFLABEL>
+               </PART_OF>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/3579</VALUE>
+                     <IDENTIFIER>3579</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>3579</IDENTIFIER>
+                  <PREFLABEL>import restriction</PREFLABEL>
+                  <ALTLABEL>import ban</ALTLABEL>
+                  <ALTLABEL>suspension of imports</ALTLABEL>
+                  <ALTLABEL>limit on imports</ALTLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/subject-matter/AGRI</VALUE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <TYPE>subject-matter</TYPE>
+                  </URI>
+                  <OP-CODE>AGRI</OP-CODE>
+                  <IDENTIFIER>AGRI</IDENTIFIER>
+                  <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/5384</VALUE>
+                     <IDENTIFIER>5384</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>5384</IDENTIFIER>
+                  <PREFLABEL>hemp</PREFLABEL>
+               </IS_ABOUT>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2194</VALUE>
+                        <IDENTIFIER>2194</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2194</IDENTIFIER>
+                     <PREFLABEL>agricultural guidance</PREFLABEL>
+                     <ALTLABEL>production premium</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2972</VALUE>
+                        <IDENTIFIER>2972</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2972</IDENTIFIER>
+                     <PREFLABEL>regulation of agricultural production</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100156</VALUE>
+                        <IDENTIFIER>100156</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>56</IDENTIFIER>
+                     <PREFLABEL>56 AGRICULTURE, FORESTRY AND FISHERIES</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100246</VALUE>
+                        <IDENTIFIER>100246</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5611</IDENTIFIER>
+                     <PREFLABEL>5611 agricultural structures and production</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <PART_OF type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/COM_NAT</VALUE>
+                     <IDENTIFIER>COM_NAT</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>COM_NAT</OP-CODE>
+                  <IDENTIFIER>COM_NAT</IDENTIFIER>
+                  <PREFLABEL>COM_NAT</PREFLABEL>
+               </PART_OF>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/3191</VALUE>
+                     <IDENTIFIER>3191</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>3191</IDENTIFIER>
+                  <PREFLABEL>import (EU)</PREFLABEL>
+                  <ALTLABEL>Community import</ALTLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/036065</VALUE>
+                     <IDENTIFIER>036065</IDENTIFIER>
+                     <TYPE>dir-eu-legal-act</TYPE>
+                  </URI>
+                  <OP-CODE>036065</OP-CODE>
+                  <IDENTIFIER>036065</IDENTIFIER>
+                  <PREFLABEL>Flax and hemp</PREFLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/subject-matter/AGRI</VALUE>
+                        <IDENTIFIER>AGRI</IDENTIFIER>
+                        <TYPE>subject-matter</TYPE>
+                     </URI>
+                     <OP-CODE>AGRI</OP-CODE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/2194</VALUE>
+                     <IDENTIFIER>2194</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>2194</IDENTIFIER>
+                  <PREFLABEL>agricultural guidance</PREFLABEL>
+                  <ALTLABEL>production premium</ALTLABEL>
+               </IS_ABOUT>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5384</VALUE>
+                        <IDENTIFIER>5384</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5384</IDENTIFIER>
+                     <PREFLABEL>hemp</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2417</VALUE>
+                        <IDENTIFIER>2417</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2417</IDENTIFIER>
+                     <PREFLABEL>textile plant</PREFLABEL>
+                     <ALTLABEL>fibre plant</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100157</VALUE>
+                        <IDENTIFIER>100157</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>60</IDENTIFIER>
+                     <PREFLABEL>60 AGRI-FOODSTUFFS</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100253</VALUE>
+                        <IDENTIFIER>100253</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>6006</IDENTIFIER>
+                     <PREFLABEL>6006 plant product</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/subject-matter/L-CH</VALUE>
+                        <IDENTIFIER>L-CH</IDENTIFIER>
+                        <TYPE>subject-matter</TYPE>
+                     </URI>
+                     <OP-CODE>L-CH</OP-CODE>
+                     <IDENTIFIER>L-CH</IDENTIFIER>
+                     <PREFLABEL>Flax and hemp</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3191</VALUE>
+                        <IDENTIFIER>3191</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3191</IDENTIFIER>
+                     <PREFLABEL>import (EU)</PREFLABEL>
+                     <ALTLABEL>Community import</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/614</VALUE>
+                        <IDENTIFIER>614</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>614</IDENTIFIER>
+                     <PREFLABEL>trading operation</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100193</VALUE>
+                        <IDENTIFIER>100193</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2016</IDENTIFIER>
+                     <PREFLABEL>2016 trade</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/subject-matter/L-CH</VALUE>
+                     <IDENTIFIER>L-CH</IDENTIFIER>
+                     <TYPE>subject-matter</TYPE>
+                  </URI>
+                  <OP-CODE>L-CH</OP-CODE>
+                  <IDENTIFIER>L-CH</IDENTIFIER>
+                  <PREFLABEL>Flax and hemp</PREFLABEL>
+               </IS_ABOUT>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1984-06-12</VALUE>
+                  <YEAR>1984</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>12</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROP_REG</VALUE>
+                     <IDENTIFIER>PROP_REG</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROP_REG</OP-CODE>
+                  <IDENTIFIER>PROP_REG</IDENTIFIER>
+                  <PREFLABEL>Proposal for a regulation</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>PC</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3579</VALUE>
+                        <IDENTIFIER>3579</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3579</IDENTIFIER>
+                     <PREFLABEL>import restriction</PREFLABEL>
+                     <ALTLABEL>import ban</ALTLABEL>
+                     <ALTLABEL>suspension of imports</ALTLABEL>
+                     <ALTLABEL>limit on imports</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3584</VALUE>
+                        <IDENTIFIER>3584</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3584</IDENTIFIER>
+                     <PREFLABEL>trade restriction</PREFLABEL>
+                     <ALTLABEL>obstacle to trade</ALTLABEL>
+                     <ALTLABEL>restriction on trade</ALTLABEL>
+                     <ALTLABEL>trade defence</ALTLABEL>
+                     <ALTLABEL>trade barrier</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100194</VALUE>
+                        <IDENTIFIER>100194</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2021</IDENTIFIER>
+                     <PREFLABEL>2021 international trade</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <ID_CELEX type="data">
+                  <VALUE>51984PC0323</VALUE>
+               </ID_CELEX>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4081</VALUE>
+                        <IDENTIFIER>4081</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4081</IDENTIFIER>
+                     <PREFLABEL>seed</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2014</VALUE>
+                        <IDENTIFIER>2014</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2014</IDENTIFIER>
+                     <PREFLABEL>means of agricultural production</PREFLABEL>
+                     <ALTLABEL>agricultural engineering</ALTLABEL>
+                     <ALTLABEL>agricultural technology</ALTLABEL>
+                     <ALTLABEL>agricultural infrastructure</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100156</VALUE>
+                        <IDENTIFIER>100156</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>56</IDENTIFIER>
+                     <PREFLABEL>56 AGRICULTURE, FORESTRY AND FISHERIES</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100249</VALUE>
+                        <IDENTIFIER>100249</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5626</IDENTIFIER>
+                     <PREFLABEL>5626 means of agricultural production</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <TYPE>cdm:proposal_regulation_ec</TYPE>
+               <TYPE>cdm:proposal_act</TYPE>
+               <TYPE>cdm:act_preparatory_ec</TYPE>
+               <TYPE>cdm:act_preparatory</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>FORSLAG TIL RAADETS FORORDNING(EOEF)OM FASTSAETTELSE AF GENERELLE REGLER FOR INDFOERELSE AF IMPORTRESTRIKTIONER FOR HAMP OG HAMPEFROE OG OM AENDRING AF FORORDNING(EOEF)NR 619/71 FOR SAA VIDT ANGAAR HAMP</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+                     <IDENTIFIER>DAN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DAN</OP-CODE>
+                  <IDENTIFIER>DAN</IDENTIFIER>
+                  <PREFLABEL>Danish</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/e4b0b5e7-0c3a-11e4-a7d0-01aa75ed71a1.0006</VALUE>
+            <IDENTIFIER>e4b0b5e7-0c3a-11e4-a7d0-01aa75ed71a1.0006</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/comnat/COM_1984_0323_FIN.DAN</VALUE>
+               <IDENTIFIER>COM_1984_0323_FIN.DAN</IDENTIFIER>
+               <TYPE>comnat</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/51984PC0323.DAN</VALUE>
+               <IDENTIFIER>51984PC0323.DAN</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/subject-matter/AGRI</VALUE>
+            <IDENTIFIER>AGRI</IDENTIFIER>
+            <TYPE>subject-matter</TYPE>
+         </URI>
+         <OP-CODE>AGRI</OP-CODE>
+         <IDENTIFIER>AGRI</IDENTIFIER>
+         <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+      </IS_ABOUT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>5</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_NUMBER_NATURAL_CELEX type="data">
+                  <VALUE>0323</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL_CELEX>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>51984PC0323</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/036065</VALUE>
+                        <IDENTIFIER>036065</IDENTIFIER>
+                        <TYPE>dir-eu-legal-act</TYPE>
+                     </URI>
+                     <OP-CODE>036065</OP-CODE>
+                     <IDENTIFIER>036065</IDENTIFIER>
+                     <PREFLABEL>Flax and hemp</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/0360</VALUE>
+                        <IDENTIFIER>0360</IDENTIFIER>
+                        <TYPE>dir-eu-legal-act</TYPE>
+                     </URI>
+                     <OP-CODE>0360</OP-CODE>
+                     <IDENTIFIER>0360</IDENTIFIER>
+                     <PREFLABEL>Products subject to market organisation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/03</VALUE>
+                        <IDENTIFIER>03</IDENTIFIER>
+                        <TYPE>dir-eu-legal-act</TYPE>
+                     </URI>
+                     <OP-CODE>03</OP-CODE>
+                     <IDENTIFIER>03</IDENTIFIER>
+                     <PREFLABEL>Agriculture</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1>
+               </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE>
+               <YEAR type="data">
+                  <VALUE>1984</VALUE>
+               </YEAR>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/4081</VALUE>
+                     <IDENTIFIER>4081</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>4081</IDENTIFIER>
+                  <PREFLABEL>seed</PREFLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1984</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <PART_OF type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+                     <IDENTIFIER>CELEX</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>CELEX</OP-CODE>
+                  <IDENTIFIER>CELEX</IDENTIFIER>
+                  <PREFLABEL>CELEX</PREFLABEL>
+               </PART_OF>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/3579</VALUE>
+                     <IDENTIFIER>3579</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>3579</IDENTIFIER>
+                  <PREFLABEL>import restriction</PREFLABEL>
+                  <ALTLABEL>import ban</ALTLABEL>
+                  <ALTLABEL>suspension of imports</ALTLABEL>
+                  <ALTLABEL>limit on imports</ALTLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/subject-matter/AGRI</VALUE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <TYPE>subject-matter</TYPE>
+                  </URI>
+                  <OP-CODE>AGRI</OP-CODE>
+                  <IDENTIFIER>AGRI</IDENTIFIER>
+                  <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/5384</VALUE>
+                     <IDENTIFIER>5384</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>5384</IDENTIFIER>
+                  <PREFLABEL>hemp</PREFLABEL>
+               </IS_ABOUT>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2194</VALUE>
+                        <IDENTIFIER>2194</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2194</IDENTIFIER>
+                     <PREFLABEL>agricultural guidance</PREFLABEL>
+                     <ALTLABEL>production premium</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2972</VALUE>
+                        <IDENTIFIER>2972</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2972</IDENTIFIER>
+                     <PREFLABEL>regulation of agricultural production</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100156</VALUE>
+                        <IDENTIFIER>100156</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>56</IDENTIFIER>
+                     <PREFLABEL>56 AGRICULTURE, FORESTRY AND FISHERIES</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100246</VALUE>
+                        <IDENTIFIER>100246</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5611</IDENTIFIER>
+                     <PREFLABEL>5611 agricultural structures and production</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <PART_OF type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/COM_NAT</VALUE>
+                     <IDENTIFIER>COM_NAT</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>COM_NAT</OP-CODE>
+                  <IDENTIFIER>COM_NAT</IDENTIFIER>
+                  <PREFLABEL>COM_NAT</PREFLABEL>
+               </PART_OF>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/3191</VALUE>
+                     <IDENTIFIER>3191</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>3191</IDENTIFIER>
+                  <PREFLABEL>import (EU)</PREFLABEL>
+                  <ALTLABEL>Community import</ALTLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/036065</VALUE>
+                     <IDENTIFIER>036065</IDENTIFIER>
+                     <TYPE>dir-eu-legal-act</TYPE>
+                  </URI>
+                  <OP-CODE>036065</OP-CODE>
+                  <IDENTIFIER>036065</IDENTIFIER>
+                  <PREFLABEL>Flax and hemp</PREFLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/subject-matter/AGRI</VALUE>
+                        <IDENTIFIER>AGRI</IDENTIFIER>
+                        <TYPE>subject-matter</TYPE>
+                     </URI>
+                     <OP-CODE>AGRI</OP-CODE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/2194</VALUE>
+                     <IDENTIFIER>2194</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>2194</IDENTIFIER>
+                  <PREFLABEL>agricultural guidance</PREFLABEL>
+                  <ALTLABEL>production premium</ALTLABEL>
+               </IS_ABOUT>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5384</VALUE>
+                        <IDENTIFIER>5384</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5384</IDENTIFIER>
+                     <PREFLABEL>hemp</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2417</VALUE>
+                        <IDENTIFIER>2417</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2417</IDENTIFIER>
+                     <PREFLABEL>textile plant</PREFLABEL>
+                     <ALTLABEL>fibre plant</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100157</VALUE>
+                        <IDENTIFIER>100157</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>60</IDENTIFIER>
+                     <PREFLABEL>60 AGRI-FOODSTUFFS</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100253</VALUE>
+                        <IDENTIFIER>100253</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>6006</IDENTIFIER>
+                     <PREFLABEL>6006 plant product</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/subject-matter/L-CH</VALUE>
+                        <IDENTIFIER>L-CH</IDENTIFIER>
+                        <TYPE>subject-matter</TYPE>
+                     </URI>
+                     <OP-CODE>L-CH</OP-CODE>
+                     <IDENTIFIER>L-CH</IDENTIFIER>
+                     <PREFLABEL>Flax and hemp</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3191</VALUE>
+                        <IDENTIFIER>3191</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3191</IDENTIFIER>
+                     <PREFLABEL>import (EU)</PREFLABEL>
+                     <ALTLABEL>Community import</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/614</VALUE>
+                        <IDENTIFIER>614</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>614</IDENTIFIER>
+                     <PREFLABEL>trading operation</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100193</VALUE>
+                        <IDENTIFIER>100193</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2016</IDENTIFIER>
+                     <PREFLABEL>2016 trade</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/subject-matter/L-CH</VALUE>
+                     <IDENTIFIER>L-CH</IDENTIFIER>
+                     <TYPE>subject-matter</TYPE>
+                  </URI>
+                  <OP-CODE>L-CH</OP-CODE>
+                  <IDENTIFIER>L-CH</IDENTIFIER>
+                  <PREFLABEL>Flax and hemp</PREFLABEL>
+               </IS_ABOUT>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1984-06-12</VALUE>
+                  <YEAR>1984</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>12</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROP_REG</VALUE>
+                     <IDENTIFIER>PROP_REG</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROP_REG</OP-CODE>
+                  <IDENTIFIER>PROP_REG</IDENTIFIER>
+                  <PREFLABEL>Proposal for a regulation</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>PC</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3579</VALUE>
+                        <IDENTIFIER>3579</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3579</IDENTIFIER>
+                     <PREFLABEL>import restriction</PREFLABEL>
+                     <ALTLABEL>import ban</ALTLABEL>
+                     <ALTLABEL>suspension of imports</ALTLABEL>
+                     <ALTLABEL>limit on imports</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3584</VALUE>
+                        <IDENTIFIER>3584</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3584</IDENTIFIER>
+                     <PREFLABEL>trade restriction</PREFLABEL>
+                     <ALTLABEL>obstacle to trade</ALTLABEL>
+                     <ALTLABEL>restriction on trade</ALTLABEL>
+                     <ALTLABEL>trade defence</ALTLABEL>
+                     <ALTLABEL>trade barrier</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100194</VALUE>
+                        <IDENTIFIER>100194</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2021</IDENTIFIER>
+                     <PREFLABEL>2021 international trade</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <ID_CELEX type="data">
+                  <VALUE>51984PC0323</VALUE>
+               </ID_CELEX>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4081</VALUE>
+                        <IDENTIFIER>4081</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4081</IDENTIFIER>
+                     <PREFLABEL>seed</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2014</VALUE>
+                        <IDENTIFIER>2014</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2014</IDENTIFIER>
+                     <PREFLABEL>means of agricultural production</PREFLABEL>
+                     <ALTLABEL>agricultural engineering</ALTLABEL>
+                     <ALTLABEL>agricultural technology</ALTLABEL>
+                     <ALTLABEL>agricultural infrastructure</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100156</VALUE>
+                        <IDENTIFIER>100156</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>56</IDENTIFIER>
+                     <PREFLABEL>56 AGRICULTURE, FORESTRY AND FISHERIES</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100249</VALUE>
+                        <IDENTIFIER>100249</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5626</IDENTIFIER>
+                     <PREFLABEL>5626 means of agricultural production</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <TYPE>cdm:proposal_regulation_ec</TYPE>
+               <TYPE>cdm:proposal_act</TYPE>
+               <TYPE>cdm:act_preparatory_ec</TYPE>
+               <TYPE>cdm:act_preparatory</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>PROPOSITION DE REGLEMENT ( CEE ) DU CONSEIL FIXANT LES REGLES GENERALES RELATIVES AUX MESURES RESTRICTIVES A L' IMPORTATION DU CHANVRE ET DES GRAINES DE CHANVRE ET MODIFIANT LE REGLEMENT ( CEE ) NO 619/71 EN CE QUI CONCERNE LE CHANVRE</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+                     <IDENTIFIER>FRA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FRA</OP-CODE>
+                  <IDENTIFIER>FRA</IDENTIFIER>
+                  <PREFLABEL>French</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/e4b0b5e7-0c3a-11e4-a7d0-01aa75ed71a1.0001</VALUE>
+            <IDENTIFIER>e4b0b5e7-0c3a-11e4-a7d0-01aa75ed71a1.0001</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/51984PC0323.FRA</VALUE>
+               <IDENTIFIER>51984PC0323.FRA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/comnat/COM_1984_0323_FIN.FRA</VALUE>
+               <IDENTIFIER>COM_1984_0323_FIN.FRA</IDENTIFIER>
+               <TYPE>comnat</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://eurovoc.europa.eu/5384</VALUE>
+            <IDENTIFIER>5384</IDENTIFIER>
+            <TYPE>EUROVOC</TYPE>
+         </URI>
+         <IDENTIFIER>5384</IDENTIFIER>
+         <PREFLABEL>hemp</PREFLABEL>
+      </IS_ABOUT>
+      <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/2194</VALUE>
+               <IDENTIFIER>2194</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>2194</IDENTIFIER>
+            <PREFLABEL>agricultural guidance</PREFLABEL>
+            <ALTLABEL>production premium</ALTLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/2972</VALUE>
+               <IDENTIFIER>2972</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>2972</IDENTIFIER>
+            <PREFLABEL>regulation of agricultural production</PREFLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/100156</VALUE>
+               <IDENTIFIER>100156</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>56</IDENTIFIER>
+            <PREFLABEL>56 AGRICULTURE, FORESTRY AND FISHERIES</PREFLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/100246</VALUE>
+               <IDENTIFIER>100246</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>5611</IDENTIFIER>
+            <PREFLABEL>5611 agricultural structures and production</PREFLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+      </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+      <WORK_PART_OF_DOSSIER type="link">
+         <EMBEDDED_NOTICE>
+            <DOSSIER>
+               <CONTAINS type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/51984PC0323</VALUE>
+                        <IDENTIFIER>51984PC0323</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </CONTAINS>
+               <DOSSIER_TITLE type="data">
+                  <VALUE>VORSCHLAG EINER VERORDNUNG(EWG)DES RATES MIT DEN GRUNDREGELN FUER DIE EINSCHRAENKENDEN MASSNAHMEN BEI DER EINFUHR VON HANF UND HANFSAATEN UND ZUR AENDERUNG DER VERORDNUNG(EWG)NR 619/71 HINSICHTLICH HANF</VALUE>
+                  <LANG>de</LANG>
+               </DOSSIER_TITLE>
+               <DOSSIER_TITLE type="data">
+                  <VALUE>PROPOSITION DE REGLEMENT(CEE)DU CONSEILFIXANT LES REGLES GENERALES RELATIVES AUX MESURES RESTRICTIVES A L'IMPORTATION DU CHANVRE ET DES GRAINES DE CHANVRE ET MODIFIANT LE REGLEMENT(CEE)NO 619/71 EN CE QUI CONCERNE LE CHANVRE</VALUE>
+                  <LANG>fr</LANG>
+               </DOSSIER_TITLE>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_612/1260</VALUE>
+                     <IDENTIFIER>1260</IDENTIFIER>
+                     <TYPE>fd_612</TYPE>
+                  </URI>
+                  <OP-CODE>1260</OP-CODE>
+                  <IDENTIFIER>1260</IDENTIFIER>
+                  <PREFLABEL>Proposal for a Regulation</PREFLABEL>
+                  <ALTLABEL>Proposal for a Regulation</ALTLABEL>
+               </IS_ABOUT>
+               <DOSSIER_TITLE type="data">
+                  <VALUE>PROPOSAL FOR A COUNCIL REGULATION(EEC)LAYING DOWN GENERAL RULES RELATING TO THE IMPORT RESTRICTIONS ON HEMP AND HEMP SEED AND AMENDING REGULATION(EEC)NO 619/71 IN RESPECT OF HEMP</VALUE>
+                  <LANG>en</LANG>
+               </DOSSIER_TITLE>
+               <DOSSIER_CONTAINS_WORK type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/51984PC0323</VALUE>
+                        <IDENTIFIER>51984PC0323</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </DOSSIER_CONTAINS_WORK>
+               <DOSSIER_TITLE type="data">
+                  <VALUE>FORSLAG TIL RAADETS FORORDNING(EOEF)OM FASTSAETTELSE AF GENERELLE REGLER FOR INDFOERELSE AF IMPORTRESTRIKTIONER FOR HAMP OG HAMPEFROE OG OM AENDRING AF FORORDNING(EOEF)NR 619/71 FOR SAA VIDT ANGAAR HAMP</VALUE>
+                  <LANG>da</LANG>
+               </DOSSIER_TITLE>
+               <CONTAINS type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/comnat/COM_1984_0323_FIN</VALUE>
+                        <IDENTIFIER>COM_1984_0323_FIN</IDENTIFIER>
+                        <TYPE>comnat</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </CONTAINS>
+               <DOSSIER_IDENTIFIER type="data">
+                  <VALUE>pegase:117934</VALUE>
+               </DOSSIER_IDENTIFIER>
+               <DOSSIER_CONTAINS_WORK type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/comnat/COM_1984_0323_FIN</VALUE>
+                        <IDENTIFIER>COM_1984_0323_FIN</IDENTIFIER>
+                        <TYPE>comnat</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </DOSSIER_CONTAINS_WORK>
+               <DOSSIER_TITLE type="data">
+                  <VALUE>VOORSTEL VOOR EEN VERORDENING(EEG)VAN DE RAAD TOT VASTSTELLING VAN DE ALGEMENE BEPALINGEN BETREFFENDE DE BEPERKENDE MAATREGELEN BIJ INVOER VAN HENNEP EN HENNEPZAAD EN TOT WIJZIGING VAN VERORDENING(EEG)NR 619/71 TEN AANZIEN VAN HENNEP</VALUE>
+                  <LANG>nl</LANG>
+               </DOSSIER_TITLE>
+               <CONTAINS type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1984_191_R_0006_01</VALUE>
+                        <IDENTIFIER>JOL_1984_191_R_0006_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </CONTAINS>
+               <CONTAINS type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/31984R2059</VALUE>
+                        <IDENTIFIER>31984R2059</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </CONTAINS>
+               <DOSSIER_TITLE type="data">
+                  <VALUE>PROPOSTA DI REGOLAMENTO(CEE)DEL CONSIGLIO CHE FISSA LE NORME GENERALI RELATIVE ALLE MISURE RESTRITTIVE ALL'IMPORTAZIONE DI CANAPA E DI SEMI DI CANAPA E CHE MODIFICA IL REGOLAMENTO(CEE)NO 619/71 PER QUANTO RIGUARDA LA CANAPA</VALUE>
+                  <LANG>it</LANG>
+               </DOSSIER_TITLE>
+               <DOSSIER_CONTAINS_WORK type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/31984R2059</VALUE>
+                        <IDENTIFIER>31984R2059</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </DOSSIER_CONTAINS_WORK>
+               <DOSSIER_TYPE_REFERENCE type="data">
+                  <VALUE>COM</VALUE>
+               </DOSSIER_TYPE_REFERENCE>
+               <DOSSIER_CONTAINS_WORK type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1984_191_R_0006_01</VALUE>
+                        <IDENTIFIER>JOL_1984_191_R_0006_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </DOSSIER_CONTAINS_WORK>
+               <TYPE>cdm:dossier</TYPE>
+               <TYPE>cdm:entity_temporal</TYPE>
+               <TYPE>cdm:period</TYPE>
+               <TYPE>cdm:procedure_without_code_interinstitutional</TYPE>
+            </DOSSIER>
+            <EVENT>
+               <EVENT_LEGAL_RESPONSIBILITY_OF_INSTITUTION type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/corporate-body/AGRI</VALUE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <TYPE>corporate-body</TYPE>
+                  </URI>
+                  <OP-CODE>AGRI</OP-CODE>
+                  <IDENTIFIER>AGRI</IDENTIFIER>
+                  <PREFLABEL>Directorate-General for Agriculture and Rural Development</PREFLABEL>
+                  <ALTLABEL>Agriculture and Rural Development</ALTLABEL>
+                  <ALTLABEL>AGRI</ALTLABEL>
+                  <ALTLABEL>DG Agriculture and Rural Development</ALTLABEL>
+               </EVENT_LEGAL_RESPONSIBILITY_OF_INSTITUTION>
+               <EVENT_LEGAL_CONTAINS_WORK type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/51984PC0323</VALUE>
+                        <IDENTIFIER>51984PC0323</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EVENT_LEGAL_CONTAINS_WORK>
+               <EVENT_CONTAINS_WORK type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/comnat/COM_1984_0323_FIN</VALUE>
+                        <IDENTIFIER>COM_1984_0323_FIN</IDENTIFIER>
+                        <TYPE>comnat</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EVENT_CONTAINS_WORK>
+               <CONTAINS type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/51984PC0323</VALUE>
+                        <IDENTIFIER>51984PC0323</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </CONTAINS>
+               <EVENT_CONTAINS_WORK type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/51984PC0323</VALUE>
+                        <IDENTIFIER>51984PC0323</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EVENT_CONTAINS_WORK>
+               <EVENT_LEGAL_CONTAINS_WORK type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/comnat/COM_1984_0323_FIN</VALUE>
+                        <IDENTIFIER>COM_1984_0323_FIN</IDENTIFIER>
+                        <TYPE>comnat</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EVENT_LEGAL_CONTAINS_WORK>
+               <PART_OF type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/pegase/117934</VALUE>
+                        <IDENTIFIER>117934</IDENTIFIER>
+                        <TYPE>pegase</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </PART_OF>
+               <CONTAINS type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/comnat/COM_1984_0323_FIN</VALUE>
+                        <IDENTIFIER>COM_1984_0323_FIN</IDENTIFIER>
+                        <TYPE>comnat</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </CONTAINS>
+               <EVENT_LEGAL_TYPE type="data">
+                  <VALUE>Adoption par Commission</VALUE>
+               </EVENT_LEGAL_TYPE>
+               <EVENT_LEGAL_DATE type="date">
+                  <VALUE>1984-06-12</VALUE>
+                  <YEAR>1984</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>12</DAY>
+               </EVENT_LEGAL_DATE>
+            </EVENT>
+            <EVENT>
+               <EVENT_LEGAL_TYPE type="data">
+                  <VALUE>Transmission au Conseil</VALUE>
+               </EVENT_LEGAL_TYPE>
+               <PART_OF type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/pegase/117934</VALUE>
+                        <IDENTIFIER>117934</IDENTIFIER>
+                        <TYPE>pegase</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </PART_OF>
+               <EVENT_LEGAL_DATE type="date">
+                  <VALUE>1984-06-14</VALUE>
+                  <YEAR>1984</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>14</DAY>
+               </EVENT_LEGAL_DATE>
+            </EVENT>
+            <EVENT>
+               <EVENT_LEGAL_CONTAINS_WORK type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1984_191_R_0006_01</VALUE>
+                        <IDENTIFIER>JOL_1984_191_R_0006_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EVENT_LEGAL_CONTAINS_WORK>
+               <EVENT_CONTAINS_WORK type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/31984R2059</VALUE>
+                        <IDENTIFIER>31984R2059</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EVENT_CONTAINS_WORK>
+               <EVENT_CONTAINS_WORK type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1984_191_R_0006_01</VALUE>
+                        <IDENTIFIER>JOL_1984_191_R_0006_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EVENT_CONTAINS_WORK>
+               <EVENT_LEGAL_CONTAINS_WORK type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/31984R2059</VALUE>
+                        <IDENTIFIER>31984R2059</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </EVENT_LEGAL_CONTAINS_WORK>
+               <CONTAINS type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/31984R2059</VALUE>
+                        <IDENTIFIER>31984R2059</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </CONTAINS>
+               <PART_OF type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/pegase/117934</VALUE>
+                        <IDENTIFIER>117934</IDENTIFIER>
+                        <TYPE>pegase</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </PART_OF>
+               <EVENT_LEGAL_TYPE type="data">
+                  <VALUE>Adoption formelle par Conseil</VALUE>
+               </EVENT_LEGAL_TYPE>
+               <CONTAINS type="embedded_link">
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1984_191_R_0006_01</VALUE>
+                        <IDENTIFIER>JOL_1984_191_R_0006_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </CONTAINS>
+               <EVENT_LEGAL_DATE type="date">
+                  <VALUE>1984-07-16</VALUE>
+                  <YEAR>1984</YEAR>
+                  <MONTH>07</MONTH>
+                  <DAY>16</DAY>
+               </EVENT_LEGAL_DATE>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_600/OP_DATPRO</VALUE>
+                     <IDENTIFIER>OP_DATPRO</IDENTIFIER>
+                     <TYPE>fd_600</TYPE>
+                  </URI>
+                  <OP-CODE>OP_DATPRO</OP-CODE>
+                  <IDENTIFIER>OP_DATPRO</IDENTIFIER>
+                  <PREFLABEL>Provisional data</PREFLABEL>
+                  <ANNOTATION>
+                     <ERROR_MESSAGE>Data wrong</ERROR_MESSAGE>
+                     <QUALITY_ISSUE>DATWRO</QUALITY_ISSUE>
+                     <BUILD_INFO>cdm:3840  tdm:1523  xslt:3886 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:3886 builddate:18/07/2012 09:27:04</BUILD_INFO>
+                  </ANNOTATION>
+                  <ANNOTATION>
+                     <ERROR_MESSAGE>Data wrong</ERROR_MESSAGE>
+                     <QUALITY_ISSUE>DATWRO</QUALITY_ISSUE>
+                     <BUILD_INFO>cdm:3840  tdm:1523  xslt:3886 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:3886 builddate:18/07/2012 09:27:04</BUILD_INFO>
+                  </ANNOTATION>
+               </IS_ABOUT>
+            </EVENT>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/8274aabd-d0fe-11e1-905c-01aa75ed71a1</VALUE>
+            <IDENTIFIER>8274aabd-d0fe-11e1-905c-01aa75ed71a1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/pegase/117934</VALUE>
+               <IDENTIFIER>117934</IDENTIFIER>
+               <TYPE>pegase</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_PART_OF_DOSSIER>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2023-09-08T11:49:20.485+02:00</VALUE>
+         <YEAR>2023</YEAR>
+         <MONTH>09</MONTH>
+         <DAY>08</DAY>
+      </LASTMODIFICATIONDATE>
+      <RESOURCE_LEGAL_ADOPTED_BY_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/cc3f6fe3-5a29-4cf0-a1b2-e799603448b6</VALUE>
+            <IDENTIFIER>cc3f6fe3-5a29-4cf0-a1b2-e799603448b6</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/reg/1984/2059/oj</VALUE>
+               <IDENTIFIER>reg:1984:2059:oj</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1984_191_R_0006_009</VALUE>
+               <IDENTIFIER>JOL_1984_191_R_0006_009</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/31984R2059</VALUE>
+               <IDENTIFIER>31984R2059</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <ANNOTATION>
+            <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:21/04/2014 18:45:06</BUILD_INFO>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_ADOPTED_BY_RESOURCE_LEGAL>
+      <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/COM_NAT</VALUE>
+            <IDENTIFIER>COM_NAT</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>COM_NAT</OP-CODE>
+         <IDENTIFIER>COM_NAT</IDENTIFIER>
+         <PREFLABEL>COM_NAT</PREFLABEL>
+      </WORK_PART_OF_COLLECTION_DOCUMENT>
+      <DATE_CREATION_LEGACY type="date">
+         <VALUE>1984-06-12</VALUE>
+         <YEAR>1984</YEAR>
+         <MONTH>06</MONTH>
+         <DAY>12</DAY>
+      </DATE_CREATION_LEGACY>
+      <PART_OF type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/document-collection/COM_NAT</VALUE>
+            <IDENTIFIER>COM_NAT</IDENTIFIER>
+            <TYPE>document-collection</TYPE>
+         </URI>
+         <OP-CODE>COM_NAT</OP-CODE>
+         <IDENTIFIER>COM_NAT</IDENTIFIER>
+         <PREFLABEL>COM_NAT</PREFLABEL>
+      </PART_OF>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://eurovoc.europa.eu/3191</VALUE>
+            <IDENTIFIER>3191</IDENTIFIER>
+            <TYPE>EUROVOC</TYPE>
+         </URI>
+         <IDENTIFIER>3191</IDENTIFIER>
+         <PREFLABEL>import (EU)</PREFLABEL>
+         <ALTLABEL>Community import</ALTLABEL>
+      </IS_ABOUT>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/036065</VALUE>
+            <IDENTIFIER>036065</IDENTIFIER>
+            <TYPE>dir-eu-legal-act</TYPE>
+         </URI>
+         <OP-CODE>036065</OP-CODE>
+         <IDENTIFIER>036065</IDENTIFIER>
+         <PREFLABEL>Flax and hemp</PREFLABEL>
+      </IS_ABOUT>
+      <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+         <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/authority/subject-matter/AGRI</VALUE>
+               <IDENTIFIER>AGRI</IDENTIFIER>
+               <TYPE>subject-matter</TYPE>
+            </URI>
+            <OP-CODE>AGRI</OP-CODE>
+            <IDENTIFIER>AGRI</IDENTIFIER>
+            <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+         </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+      </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+      <RESOURCE_LEGAL_REPLACES_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/6c2fab9e-0c39-11e4-a7d0-01aa75ed71a1</VALUE>
+            <IDENTIFIER>6c2fab9e-0c39-11e4-a7d0-01aa75ed71a1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/comnat/COM_1983_0160_FIN</VALUE>
+               <IDENTIFIER>COM_1983_0160_FIN</IDENTIFIER>
+               <TYPE>comnat</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/51983PC0160</VALUE>
+               <IDENTIFIER>51983PC0160</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <ANNOTATION>
+            <TYPE_OF_LINK_TARGET>EA</TYPE_OF_LINK_TARGET>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:05/02/2015 14:44:31</BUILD_INFO>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_REPLACES_RESOURCE_LEGAL>
+      <DATE type="date">
+         <VALUE>1984-06-12</VALUE>
+         <YEAR>1984</YEAR>
+         <MONTH>06</MONTH>
+         <DAY>12</DAY>
+      </DATE>
+      <IDENTIFIER type="data">
+         <VALUE>81682</VALUE>
+      </IDENTIFIER>
+      <PART_OF type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/8274aabd-d0fe-11e1-905c-01aa75ed71a1.0001</VALUE>
+            <IDENTIFIER>8274aabd-d0fe-11e1-905c-01aa75ed71a1.0001</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/pegase/117934.183052</VALUE>
+               <IDENTIFIER>117934.183052</IDENTIFIER>
+               <TYPE>pegase</TYPE>
+            </URI>
+         </SAMEAS>
+      </PART_OF>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://eurovoc.europa.eu/2194</VALUE>
+            <IDENTIFIER>2194</IDENTIFIER>
+            <TYPE>EUROVOC</TYPE>
+         </URI>
+         <IDENTIFIER>2194</IDENTIFIER>
+         <PREFLABEL>agricultural guidance</PREFLABEL>
+         <ALTLABEL>production premium</ALTLABEL>
+      </IS_ABOUT>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>5</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_NUMBER_NATURAL_CELEX type="data">
+                  <VALUE>0323</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL_CELEX>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>51984PC0323</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/036065</VALUE>
+                        <IDENTIFIER>036065</IDENTIFIER>
+                        <TYPE>dir-eu-legal-act</TYPE>
+                     </URI>
+                     <OP-CODE>036065</OP-CODE>
+                     <IDENTIFIER>036065</IDENTIFIER>
+                     <PREFLABEL>Flax and hemp</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/0360</VALUE>
+                        <IDENTIFIER>0360</IDENTIFIER>
+                        <TYPE>dir-eu-legal-act</TYPE>
+                     </URI>
+                     <OP-CODE>0360</OP-CODE>
+                     <IDENTIFIER>0360</IDENTIFIER>
+                     <PREFLABEL>Products subject to market organisation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/03</VALUE>
+                        <IDENTIFIER>03</IDENTIFIER>
+                        <TYPE>dir-eu-legal-act</TYPE>
+                     </URI>
+                     <OP-CODE>03</OP-CODE>
+                     <IDENTIFIER>03</IDENTIFIER>
+                     <PREFLABEL>Agriculture</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1>
+               </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE>
+               <YEAR type="data">
+                  <VALUE>1984</VALUE>
+               </YEAR>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/4081</VALUE>
+                     <IDENTIFIER>4081</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>4081</IDENTIFIER>
+                  <PREFLABEL>seed</PREFLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1984</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <PART_OF type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+                     <IDENTIFIER>CELEX</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>CELEX</OP-CODE>
+                  <IDENTIFIER>CELEX</IDENTIFIER>
+                  <PREFLABEL>CELEX</PREFLABEL>
+               </PART_OF>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/3579</VALUE>
+                     <IDENTIFIER>3579</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>3579</IDENTIFIER>
+                  <PREFLABEL>import restriction</PREFLABEL>
+                  <ALTLABEL>import ban</ALTLABEL>
+                  <ALTLABEL>suspension of imports</ALTLABEL>
+                  <ALTLABEL>limit on imports</ALTLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/subject-matter/AGRI</VALUE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <TYPE>subject-matter</TYPE>
+                  </URI>
+                  <OP-CODE>AGRI</OP-CODE>
+                  <IDENTIFIER>AGRI</IDENTIFIER>
+                  <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/5384</VALUE>
+                     <IDENTIFIER>5384</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>5384</IDENTIFIER>
+                  <PREFLABEL>hemp</PREFLABEL>
+               </IS_ABOUT>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2194</VALUE>
+                        <IDENTIFIER>2194</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2194</IDENTIFIER>
+                     <PREFLABEL>agricultural guidance</PREFLABEL>
+                     <ALTLABEL>production premium</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2972</VALUE>
+                        <IDENTIFIER>2972</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2972</IDENTIFIER>
+                     <PREFLABEL>regulation of agricultural production</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100156</VALUE>
+                        <IDENTIFIER>100156</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>56</IDENTIFIER>
+                     <PREFLABEL>56 AGRICULTURE, FORESTRY AND FISHERIES</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100246</VALUE>
+                        <IDENTIFIER>100246</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5611</IDENTIFIER>
+                     <PREFLABEL>5611 agricultural structures and production</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <PART_OF type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/COM_NAT</VALUE>
+                     <IDENTIFIER>COM_NAT</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>COM_NAT</OP-CODE>
+                  <IDENTIFIER>COM_NAT</IDENTIFIER>
+                  <PREFLABEL>COM_NAT</PREFLABEL>
+               </PART_OF>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/3191</VALUE>
+                     <IDENTIFIER>3191</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>3191</IDENTIFIER>
+                  <PREFLABEL>import (EU)</PREFLABEL>
+                  <ALTLABEL>Community import</ALTLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/036065</VALUE>
+                     <IDENTIFIER>036065</IDENTIFIER>
+                     <TYPE>dir-eu-legal-act</TYPE>
+                  </URI>
+                  <OP-CODE>036065</OP-CODE>
+                  <IDENTIFIER>036065</IDENTIFIER>
+                  <PREFLABEL>Flax and hemp</PREFLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/subject-matter/AGRI</VALUE>
+                        <IDENTIFIER>AGRI</IDENTIFIER>
+                        <TYPE>subject-matter</TYPE>
+                     </URI>
+                     <OP-CODE>AGRI</OP-CODE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/2194</VALUE>
+                     <IDENTIFIER>2194</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>2194</IDENTIFIER>
+                  <PREFLABEL>agricultural guidance</PREFLABEL>
+                  <ALTLABEL>production premium</ALTLABEL>
+               </IS_ABOUT>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5384</VALUE>
+                        <IDENTIFIER>5384</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5384</IDENTIFIER>
+                     <PREFLABEL>hemp</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2417</VALUE>
+                        <IDENTIFIER>2417</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2417</IDENTIFIER>
+                     <PREFLABEL>textile plant</PREFLABEL>
+                     <ALTLABEL>fibre plant</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100157</VALUE>
+                        <IDENTIFIER>100157</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>60</IDENTIFIER>
+                     <PREFLABEL>60 AGRI-FOODSTUFFS</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100253</VALUE>
+                        <IDENTIFIER>100253</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>6006</IDENTIFIER>
+                     <PREFLABEL>6006 plant product</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/subject-matter/L-CH</VALUE>
+                        <IDENTIFIER>L-CH</IDENTIFIER>
+                        <TYPE>subject-matter</TYPE>
+                     </URI>
+                     <OP-CODE>L-CH</OP-CODE>
+                     <IDENTIFIER>L-CH</IDENTIFIER>
+                     <PREFLABEL>Flax and hemp</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3191</VALUE>
+                        <IDENTIFIER>3191</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3191</IDENTIFIER>
+                     <PREFLABEL>import (EU)</PREFLABEL>
+                     <ALTLABEL>Community import</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/614</VALUE>
+                        <IDENTIFIER>614</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>614</IDENTIFIER>
+                     <PREFLABEL>trading operation</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100193</VALUE>
+                        <IDENTIFIER>100193</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2016</IDENTIFIER>
+                     <PREFLABEL>2016 trade</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/subject-matter/L-CH</VALUE>
+                     <IDENTIFIER>L-CH</IDENTIFIER>
+                     <TYPE>subject-matter</TYPE>
+                  </URI>
+                  <OP-CODE>L-CH</OP-CODE>
+                  <IDENTIFIER>L-CH</IDENTIFIER>
+                  <PREFLABEL>Flax and hemp</PREFLABEL>
+               </IS_ABOUT>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1984-06-12</VALUE>
+                  <YEAR>1984</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>12</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROP_REG</VALUE>
+                     <IDENTIFIER>PROP_REG</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROP_REG</OP-CODE>
+                  <IDENTIFIER>PROP_REG</IDENTIFIER>
+                  <PREFLABEL>Proposal for a regulation</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>PC</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3579</VALUE>
+                        <IDENTIFIER>3579</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3579</IDENTIFIER>
+                     <PREFLABEL>import restriction</PREFLABEL>
+                     <ALTLABEL>import ban</ALTLABEL>
+                     <ALTLABEL>suspension of imports</ALTLABEL>
+                     <ALTLABEL>limit on imports</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3584</VALUE>
+                        <IDENTIFIER>3584</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3584</IDENTIFIER>
+                     <PREFLABEL>trade restriction</PREFLABEL>
+                     <ALTLABEL>obstacle to trade</ALTLABEL>
+                     <ALTLABEL>restriction on trade</ALTLABEL>
+                     <ALTLABEL>trade defence</ALTLABEL>
+                     <ALTLABEL>trade barrier</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100194</VALUE>
+                        <IDENTIFIER>100194</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2021</IDENTIFIER>
+                     <PREFLABEL>2021 international trade</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <ID_CELEX type="data">
+                  <VALUE>51984PC0323</VALUE>
+               </ID_CELEX>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4081</VALUE>
+                        <IDENTIFIER>4081</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4081</IDENTIFIER>
+                     <PREFLABEL>seed</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2014</VALUE>
+                        <IDENTIFIER>2014</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2014</IDENTIFIER>
+                     <PREFLABEL>means of agricultural production</PREFLABEL>
+                     <ALTLABEL>agricultural engineering</ALTLABEL>
+                     <ALTLABEL>agricultural technology</ALTLABEL>
+                     <ALTLABEL>agricultural infrastructure</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100156</VALUE>
+                        <IDENTIFIER>100156</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>56</IDENTIFIER>
+                     <PREFLABEL>56 AGRICULTURE, FORESTRY AND FISHERIES</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100249</VALUE>
+                        <IDENTIFIER>100249</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5626</IDENTIFIER>
+                     <PREFLABEL>5626 means of agricultural production</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <TYPE>cdm:proposal_regulation_ec</TYPE>
+               <TYPE>cdm:proposal_act</TYPE>
+               <TYPE>cdm:act_preparatory_ec</TYPE>
+               <TYPE>cdm:act_preparatory</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>PROPOSAL FOR A COUNCIL REGULATION ( EEC ) LAYING DOWN GENERAL RULES RELATING TO THE IMPORT RESTRICTIONS ON HEMP AND HEMP SEED AND AMENDING REGULATION ( EEC ) NO 619/71 IN RESPECT OF HEMP</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/e4b0b5e7-0c3a-11e4-a7d0-01aa75ed71a1.0003</VALUE>
+            <IDENTIFIER>e4b0b5e7-0c3a-11e4-a7d0-01aa75ed71a1.0003</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/51984PC0323.ENG</VALUE>
+               <IDENTIFIER>51984PC0323.ENG</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/comnat/COM_1984_0323_FIN.ENG</VALUE>
+               <IDENTIFIER>COM_1984_0323_FIN.ENG</IDENTIFIER>
+               <TYPE>comnat</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/5384</VALUE>
+               <IDENTIFIER>5384</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>5384</IDENTIFIER>
+            <PREFLABEL>hemp</PREFLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/2417</VALUE>
+               <IDENTIFIER>2417</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>2417</IDENTIFIER>
+            <PREFLABEL>textile plant</PREFLABEL>
+            <ALTLABEL>fibre plant</ALTLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/100157</VALUE>
+               <IDENTIFIER>100157</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>60</IDENTIFIER>
+            <PREFLABEL>60 AGRI-FOODSTUFFS</PREFLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/100253</VALUE>
+               <IDENTIFIER>100253</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>6006</IDENTIFIER>
+            <PREFLABEL>6006 plant product</PREFLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+      </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+      <BASED_ON type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/TEEC_1957</VALUE>
+            <IDENTIFIER>TEEC_1957</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>TEEC_1957</OP-CODE>
+         <IDENTIFIER>TEEC_1957</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Economic Community (1957)</PREFLABEL>
+         <ALTLABEL>Rome Treaty (1957)</ALTLABEL>
+         <ALTLABEL>ECC Treaty (1957)</ALTLABEL>
+         <ALTLABEL>Treaty of Rome (1957)</ALTLABEL>
+         <ALTLABEL>TEEC (1957)</ALTLABEL>
+      </BASED_ON>
+      <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+         <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/authority/subject-matter/L-CH</VALUE>
+               <IDENTIFIER>L-CH</IDENTIFIER>
+               <TYPE>subject-matter</TYPE>
+            </URI>
+            <OP-CODE>L-CH</OP-CODE>
+            <IDENTIFIER>L-CH</IDENTIFIER>
+            <PREFLABEL>Flax and hemp</PREFLABEL>
+         </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+      </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+      <WORK_ID_DOCUMENT type="data">
+         <VALUE>comnat:COM_1984_0323_FIN</VALUE>
+      </WORK_ID_DOCUMENT>
+      <RESOURCE_LEGAL_RESPONSIBILITY_OF_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/AGRI</VALUE>
+            <IDENTIFIER>AGRI</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>AGRI</OP-CODE>
+         <IDENTIFIER>AGRI</IDENTIFIER>
+         <PREFLABEL>Directorate-General for Agriculture and Rural Development</PREFLABEL>
+         <ALTLABEL>AGRI</ALTLABEL>
+         <ALTLABEL>DG Agriculture and Rural Development</ALTLABEL>
+         <ALTLABEL>Agriculture and Rural Development</ALTLABEL>
+      </RESOURCE_LEGAL_RESPONSIBILITY_OF_AGENT>
+      <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/3191</VALUE>
+               <IDENTIFIER>3191</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>3191</IDENTIFIER>
+            <PREFLABEL>import (EU)</PREFLABEL>
+            <ALTLABEL>Community import</ALTLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/614</VALUE>
+               <IDENTIFIER>614</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>614</IDENTIFIER>
+            <PREFLABEL>trading operation</PREFLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+               <IDENTIFIER>100147</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>20</IDENTIFIER>
+            <PREFLABEL>20 TRADE</PREFLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/100193</VALUE>
+               <IDENTIFIER>100193</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>2016</IDENTIFIER>
+            <PREFLABEL>2016 trade</PREFLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+      </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>5</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_NUMBER_NATURAL_CELEX type="data">
+                  <VALUE>0323</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL_CELEX>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>51984PC0323</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/036065</VALUE>
+                        <IDENTIFIER>036065</IDENTIFIER>
+                        <TYPE>dir-eu-legal-act</TYPE>
+                     </URI>
+                     <OP-CODE>036065</OP-CODE>
+                     <IDENTIFIER>036065</IDENTIFIER>
+                     <PREFLABEL>Flax and hemp</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/0360</VALUE>
+                        <IDENTIFIER>0360</IDENTIFIER>
+                        <TYPE>dir-eu-legal-act</TYPE>
+                     </URI>
+                     <OP-CODE>0360</OP-CODE>
+                     <IDENTIFIER>0360</IDENTIFIER>
+                     <PREFLABEL>Products subject to market organisation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/03</VALUE>
+                        <IDENTIFIER>03</IDENTIFIER>
+                        <TYPE>dir-eu-legal-act</TYPE>
+                     </URI>
+                     <OP-CODE>03</OP-CODE>
+                     <IDENTIFIER>03</IDENTIFIER>
+                     <PREFLABEL>Agriculture</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1>
+               </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE>
+               <YEAR type="data">
+                  <VALUE>1984</VALUE>
+               </YEAR>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/4081</VALUE>
+                     <IDENTIFIER>4081</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>4081</IDENTIFIER>
+                  <PREFLABEL>seed</PREFLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1984</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <PART_OF type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+                     <IDENTIFIER>CELEX</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>CELEX</OP-CODE>
+                  <IDENTIFIER>CELEX</IDENTIFIER>
+                  <PREFLABEL>CELEX</PREFLABEL>
+               </PART_OF>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/3579</VALUE>
+                     <IDENTIFIER>3579</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>3579</IDENTIFIER>
+                  <PREFLABEL>import restriction</PREFLABEL>
+                  <ALTLABEL>import ban</ALTLABEL>
+                  <ALTLABEL>suspension of imports</ALTLABEL>
+                  <ALTLABEL>limit on imports</ALTLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/subject-matter/AGRI</VALUE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <TYPE>subject-matter</TYPE>
+                  </URI>
+                  <OP-CODE>AGRI</OP-CODE>
+                  <IDENTIFIER>AGRI</IDENTIFIER>
+                  <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/5384</VALUE>
+                     <IDENTIFIER>5384</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>5384</IDENTIFIER>
+                  <PREFLABEL>hemp</PREFLABEL>
+               </IS_ABOUT>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2194</VALUE>
+                        <IDENTIFIER>2194</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2194</IDENTIFIER>
+                     <PREFLABEL>agricultural guidance</PREFLABEL>
+                     <ALTLABEL>production premium</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2972</VALUE>
+                        <IDENTIFIER>2972</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2972</IDENTIFIER>
+                     <PREFLABEL>regulation of agricultural production</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100156</VALUE>
+                        <IDENTIFIER>100156</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>56</IDENTIFIER>
+                     <PREFLABEL>56 AGRICULTURE, FORESTRY AND FISHERIES</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100246</VALUE>
+                        <IDENTIFIER>100246</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5611</IDENTIFIER>
+                     <PREFLABEL>5611 agricultural structures and production</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <PART_OF type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/COM_NAT</VALUE>
+                     <IDENTIFIER>COM_NAT</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>COM_NAT</OP-CODE>
+                  <IDENTIFIER>COM_NAT</IDENTIFIER>
+                  <PREFLABEL>COM_NAT</PREFLABEL>
+               </PART_OF>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/3191</VALUE>
+                     <IDENTIFIER>3191</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>3191</IDENTIFIER>
+                  <PREFLABEL>import (EU)</PREFLABEL>
+                  <ALTLABEL>Community import</ALTLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/036065</VALUE>
+                     <IDENTIFIER>036065</IDENTIFIER>
+                     <TYPE>dir-eu-legal-act</TYPE>
+                  </URI>
+                  <OP-CODE>036065</OP-CODE>
+                  <IDENTIFIER>036065</IDENTIFIER>
+                  <PREFLABEL>Flax and hemp</PREFLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/subject-matter/AGRI</VALUE>
+                        <IDENTIFIER>AGRI</IDENTIFIER>
+                        <TYPE>subject-matter</TYPE>
+                     </URI>
+                     <OP-CODE>AGRI</OP-CODE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/2194</VALUE>
+                     <IDENTIFIER>2194</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>2194</IDENTIFIER>
+                  <PREFLABEL>agricultural guidance</PREFLABEL>
+                  <ALTLABEL>production premium</ALTLABEL>
+               </IS_ABOUT>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5384</VALUE>
+                        <IDENTIFIER>5384</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5384</IDENTIFIER>
+                     <PREFLABEL>hemp</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2417</VALUE>
+                        <IDENTIFIER>2417</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2417</IDENTIFIER>
+                     <PREFLABEL>textile plant</PREFLABEL>
+                     <ALTLABEL>fibre plant</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100157</VALUE>
+                        <IDENTIFIER>100157</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>60</IDENTIFIER>
+                     <PREFLABEL>60 AGRI-FOODSTUFFS</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100253</VALUE>
+                        <IDENTIFIER>100253</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>6006</IDENTIFIER>
+                     <PREFLABEL>6006 plant product</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/subject-matter/L-CH</VALUE>
+                        <IDENTIFIER>L-CH</IDENTIFIER>
+                        <TYPE>subject-matter</TYPE>
+                     </URI>
+                     <OP-CODE>L-CH</OP-CODE>
+                     <IDENTIFIER>L-CH</IDENTIFIER>
+                     <PREFLABEL>Flax and hemp</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3191</VALUE>
+                        <IDENTIFIER>3191</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3191</IDENTIFIER>
+                     <PREFLABEL>import (EU)</PREFLABEL>
+                     <ALTLABEL>Community import</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/614</VALUE>
+                        <IDENTIFIER>614</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>614</IDENTIFIER>
+                     <PREFLABEL>trading operation</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100193</VALUE>
+                        <IDENTIFIER>100193</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2016</IDENTIFIER>
+                     <PREFLABEL>2016 trade</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/subject-matter/L-CH</VALUE>
+                     <IDENTIFIER>L-CH</IDENTIFIER>
+                     <TYPE>subject-matter</TYPE>
+                  </URI>
+                  <OP-CODE>L-CH</OP-CODE>
+                  <IDENTIFIER>L-CH</IDENTIFIER>
+                  <PREFLABEL>Flax and hemp</PREFLABEL>
+               </IS_ABOUT>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1984-06-12</VALUE>
+                  <YEAR>1984</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>12</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROP_REG</VALUE>
+                     <IDENTIFIER>PROP_REG</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROP_REG</OP-CODE>
+                  <IDENTIFIER>PROP_REG</IDENTIFIER>
+                  <PREFLABEL>Proposal for a regulation</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>PC</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3579</VALUE>
+                        <IDENTIFIER>3579</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3579</IDENTIFIER>
+                     <PREFLABEL>import restriction</PREFLABEL>
+                     <ALTLABEL>import ban</ALTLABEL>
+                     <ALTLABEL>suspension of imports</ALTLABEL>
+                     <ALTLABEL>limit on imports</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3584</VALUE>
+                        <IDENTIFIER>3584</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3584</IDENTIFIER>
+                     <PREFLABEL>trade restriction</PREFLABEL>
+                     <ALTLABEL>obstacle to trade</ALTLABEL>
+                     <ALTLABEL>restriction on trade</ALTLABEL>
+                     <ALTLABEL>trade defence</ALTLABEL>
+                     <ALTLABEL>trade barrier</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100194</VALUE>
+                        <IDENTIFIER>100194</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2021</IDENTIFIER>
+                     <PREFLABEL>2021 international trade</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <ID_CELEX type="data">
+                  <VALUE>51984PC0323</VALUE>
+               </ID_CELEX>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4081</VALUE>
+                        <IDENTIFIER>4081</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4081</IDENTIFIER>
+                     <PREFLABEL>seed</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2014</VALUE>
+                        <IDENTIFIER>2014</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2014</IDENTIFIER>
+                     <PREFLABEL>means of agricultural production</PREFLABEL>
+                     <ALTLABEL>agricultural engineering</ALTLABEL>
+                     <ALTLABEL>agricultural technology</ALTLABEL>
+                     <ALTLABEL>agricultural infrastructure</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100156</VALUE>
+                        <IDENTIFIER>100156</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>56</IDENTIFIER>
+                     <PREFLABEL>56 AGRICULTURE, FORESTRY AND FISHERIES</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100249</VALUE>
+                        <IDENTIFIER>100249</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5626</IDENTIFIER>
+                     <PREFLABEL>5626 means of agricultural production</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <TYPE>cdm:proposal_regulation_ec</TYPE>
+               <TYPE>cdm:proposal_act</TYPE>
+               <TYPE>cdm:act_preparatory_ec</TYPE>
+               <TYPE>cdm:act_preparatory</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>VOORSTEL VOOR EEN VERORDENING(EEG)VAN DE RAAD TOT VASTSTELLING VAN DE ALGEMENE BEPALINGEN BETREFFENDE DE BEPERKENDE MAATREGELEN BIJ INVOER VAN HENNEP EN HENNEPZAAD EN TOT WIJZIGING VAN VERORDENING(EEG)NR 619/71 TEN AANZIEN VAN HENNEP</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+                     <IDENTIFIER>NLD</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>NLD</OP-CODE>
+                  <IDENTIFIER>NLD</IDENTIFIER>
+                  <PREFLABEL>Dutch</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/e4b0b5e7-0c3a-11e4-a7d0-01aa75ed71a1.0005</VALUE>
+            <IDENTIFIER>e4b0b5e7-0c3a-11e4-a7d0-01aa75ed71a1.0005</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/51984PC0323.NLD</VALUE>
+               <IDENTIFIER>51984PC0323.NLD</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/comnat/COM_1984_0323_FIN.NLD</VALUE>
+               <IDENTIFIER>COM_1984_0323_FIN.NLD</IDENTIFIER>
+               <TYPE>comnat</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <IS_ABOUT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/subject-matter/L-CH</VALUE>
+            <IDENTIFIER>L-CH</IDENTIFIER>
+            <TYPE>subject-matter</TYPE>
+         </URI>
+         <OP-CODE>L-CH</OP-CODE>
+         <IDENTIFIER>L-CH</IDENTIFIER>
+         <PREFLABEL>Flax and hemp</PREFLABEL>
+      </IS_ABOUT>
+      <WORK_DATE_DOCUMENT type="date">
+         <VALUE>1984-06-12</VALUE>
+         <YEAR>1984</YEAR>
+         <MONTH>06</MONTH>
+         <DAY>12</DAY>
+      </WORK_DATE_DOCUMENT>
+      <RESOURCE_LEGAL_DATE_END-OF-VALIDITY type="date">
+         <VALUE>1984-07-16</VALUE>
+         <YEAR>1984</YEAR>
+         <MONTH>07</MONTH>
+         <DAY>16</DAY>
+         <ANNOTATION>
+            <COMMENT_ON_DATE>{YD|http://publications.europa.eu/resource/authority/fd_330/YD} {384R2059|http://publications.europa.eu/resource/celex/31984R2059}</COMMENT_ON_DATE>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:05/02/2015 14:44:31</BUILD_INFO>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_DATE_END-OF-VALIDITY>
+      <WORK_HAS_RESOURCE-TYPE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROP_REG</VALUE>
+            <IDENTIFIER>PROP_REG</IDENTIFIER>
+            <TYPE>resource-type</TYPE>
+         </URI>
+         <OP-CODE>PROP_REG</OP-CODE>
+         <IDENTIFIER>PROP_REG</IDENTIFIER>
+         <PREFLABEL>Proposal for a regulation</PREFLABEL>
+      </WORK_HAS_RESOURCE-TYPE>
+      <PART_OF type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/8274aabd-d0fe-11e1-905c-01aa75ed71a1</VALUE>
+            <IDENTIFIER>8274aabd-d0fe-11e1-905c-01aa75ed71a1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/pegase/117934</VALUE>
+               <IDENTIFIER>117934</IDENTIFIER>
+               <TYPE>pegase</TYPE>
+            </URI>
+         </SAMEAS>
+      </PART_OF>
+      <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/treaty/TEEC_1957</VALUE>
+            <IDENTIFIER>TEEC_1957</IDENTIFIER>
+            <TYPE>treaty</TYPE>
+         </URI>
+         <OP-CODE>TEEC_1957</OP-CODE>
+         <IDENTIFIER>TEEC_1957</IDENTIFIER>
+         <PREFLABEL>Treaty establishing the European Economic Community (1957)</PREFLABEL>
+         <ALTLABEL>Rome Treaty (1957)</ALTLABEL>
+         <ALTLABEL>ECC Treaty (1957)</ALTLABEL>
+         <ALTLABEL>Treaty of Rome (1957)</ALTLABEL>
+         <ALTLABEL>TEEC (1957)</ALTLABEL>
+      </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+      <RESOURCE_LEGAL_TYPE type="data">
+         <VALUE>PC</VALUE>
+      </RESOURCE_LEGAL_TYPE>
+      <IDENTIFIER type="data">
+         <VALUE>celex:51984PC0323</VALUE>
+      </IDENTIFIER>
+      <DATE type="date">
+         <VALUE>1984-06-14</VALUE>
+         <YEAR>1984</YEAR>
+         <MONTH>06</MONTH>
+         <DAY>14</DAY>
+         <ANNOTATION>
+            <COMMENT_ON_DATE>{TRANS/CONS|http://publications.europa.eu/resource/authority/fd_340/TRANS%2FCONS}</COMMENT_ON_DATE>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:05/02/2015 14:44:31</BUILD_INFO>
+         </ANNOTATION>
+      </DATE>
+      <CREATED_BY type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/COM</VALUE>
+            <IDENTIFIER>COM</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>COM</OP-CODE>
+         <IDENTIFIER>COM</IDENTIFIER>
+         <PREFLABEL>European Commission</PREFLABEL>
+         <ALTLABEL>EC</ALTLABEL>
+         <ALTLABEL>Commission</ALTLABEL>
+      </CREATED_BY>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>5</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_NUMBER_NATURAL_CELEX type="data">
+                  <VALUE>0323</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL_CELEX>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>51984PC0323</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/036065</VALUE>
+                        <IDENTIFIER>036065</IDENTIFIER>
+                        <TYPE>dir-eu-legal-act</TYPE>
+                     </URI>
+                     <OP-CODE>036065</OP-CODE>
+                     <IDENTIFIER>036065</IDENTIFIER>
+                     <PREFLABEL>Flax and hemp</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/0360</VALUE>
+                        <IDENTIFIER>0360</IDENTIFIER>
+                        <TYPE>dir-eu-legal-act</TYPE>
+                     </URI>
+                     <OP-CODE>0360</OP-CODE>
+                     <IDENTIFIER>0360</IDENTIFIER>
+                     <PREFLABEL>Products subject to market organisation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/03</VALUE>
+                        <IDENTIFIER>03</IDENTIFIER>
+                        <TYPE>dir-eu-legal-act</TYPE>
+                     </URI>
+                     <OP-CODE>03</OP-CODE>
+                     <IDENTIFIER>03</IDENTIFIER>
+                     <PREFLABEL>Agriculture</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1>
+               </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE>
+               <YEAR type="data">
+                  <VALUE>1984</VALUE>
+               </YEAR>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/4081</VALUE>
+                     <IDENTIFIER>4081</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>4081</IDENTIFIER>
+                  <PREFLABEL>seed</PREFLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1984</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <PART_OF type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+                     <IDENTIFIER>CELEX</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>CELEX</OP-CODE>
+                  <IDENTIFIER>CELEX</IDENTIFIER>
+                  <PREFLABEL>CELEX</PREFLABEL>
+               </PART_OF>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/3579</VALUE>
+                     <IDENTIFIER>3579</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>3579</IDENTIFIER>
+                  <PREFLABEL>import restriction</PREFLABEL>
+                  <ALTLABEL>import ban</ALTLABEL>
+                  <ALTLABEL>suspension of imports</ALTLABEL>
+                  <ALTLABEL>limit on imports</ALTLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/subject-matter/AGRI</VALUE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <TYPE>subject-matter</TYPE>
+                  </URI>
+                  <OP-CODE>AGRI</OP-CODE>
+                  <IDENTIFIER>AGRI</IDENTIFIER>
+                  <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/5384</VALUE>
+                     <IDENTIFIER>5384</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>5384</IDENTIFIER>
+                  <PREFLABEL>hemp</PREFLABEL>
+               </IS_ABOUT>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2194</VALUE>
+                        <IDENTIFIER>2194</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2194</IDENTIFIER>
+                     <PREFLABEL>agricultural guidance</PREFLABEL>
+                     <ALTLABEL>production premium</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2972</VALUE>
+                        <IDENTIFIER>2972</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2972</IDENTIFIER>
+                     <PREFLABEL>regulation of agricultural production</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100156</VALUE>
+                        <IDENTIFIER>100156</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>56</IDENTIFIER>
+                     <PREFLABEL>56 AGRICULTURE, FORESTRY AND FISHERIES</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100246</VALUE>
+                        <IDENTIFIER>100246</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5611</IDENTIFIER>
+                     <PREFLABEL>5611 agricultural structures and production</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <PART_OF type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/COM_NAT</VALUE>
+                     <IDENTIFIER>COM_NAT</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>COM_NAT</OP-CODE>
+                  <IDENTIFIER>COM_NAT</IDENTIFIER>
+                  <PREFLABEL>COM_NAT</PREFLABEL>
+               </PART_OF>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/3191</VALUE>
+                     <IDENTIFIER>3191</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>3191</IDENTIFIER>
+                  <PREFLABEL>import (EU)</PREFLABEL>
+                  <ALTLABEL>Community import</ALTLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/036065</VALUE>
+                     <IDENTIFIER>036065</IDENTIFIER>
+                     <TYPE>dir-eu-legal-act</TYPE>
+                  </URI>
+                  <OP-CODE>036065</OP-CODE>
+                  <IDENTIFIER>036065</IDENTIFIER>
+                  <PREFLABEL>Flax and hemp</PREFLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/subject-matter/AGRI</VALUE>
+                        <IDENTIFIER>AGRI</IDENTIFIER>
+                        <TYPE>subject-matter</TYPE>
+                     </URI>
+                     <OP-CODE>AGRI</OP-CODE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/2194</VALUE>
+                     <IDENTIFIER>2194</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>2194</IDENTIFIER>
+                  <PREFLABEL>agricultural guidance</PREFLABEL>
+                  <ALTLABEL>production premium</ALTLABEL>
+               </IS_ABOUT>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5384</VALUE>
+                        <IDENTIFIER>5384</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5384</IDENTIFIER>
+                     <PREFLABEL>hemp</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2417</VALUE>
+                        <IDENTIFIER>2417</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2417</IDENTIFIER>
+                     <PREFLABEL>textile plant</PREFLABEL>
+                     <ALTLABEL>fibre plant</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100157</VALUE>
+                        <IDENTIFIER>100157</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>60</IDENTIFIER>
+                     <PREFLABEL>60 AGRI-FOODSTUFFS</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100253</VALUE>
+                        <IDENTIFIER>100253</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>6006</IDENTIFIER>
+                     <PREFLABEL>6006 plant product</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/subject-matter/L-CH</VALUE>
+                        <IDENTIFIER>L-CH</IDENTIFIER>
+                        <TYPE>subject-matter</TYPE>
+                     </URI>
+                     <OP-CODE>L-CH</OP-CODE>
+                     <IDENTIFIER>L-CH</IDENTIFIER>
+                     <PREFLABEL>Flax and hemp</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3191</VALUE>
+                        <IDENTIFIER>3191</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3191</IDENTIFIER>
+                     <PREFLABEL>import (EU)</PREFLABEL>
+                     <ALTLABEL>Community import</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/614</VALUE>
+                        <IDENTIFIER>614</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>614</IDENTIFIER>
+                     <PREFLABEL>trading operation</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100193</VALUE>
+                        <IDENTIFIER>100193</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2016</IDENTIFIER>
+                     <PREFLABEL>2016 trade</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/subject-matter/L-CH</VALUE>
+                     <IDENTIFIER>L-CH</IDENTIFIER>
+                     <TYPE>subject-matter</TYPE>
+                  </URI>
+                  <OP-CODE>L-CH</OP-CODE>
+                  <IDENTIFIER>L-CH</IDENTIFIER>
+                  <PREFLABEL>Flax and hemp</PREFLABEL>
+               </IS_ABOUT>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1984-06-12</VALUE>
+                  <YEAR>1984</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>12</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROP_REG</VALUE>
+                     <IDENTIFIER>PROP_REG</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROP_REG</OP-CODE>
+                  <IDENTIFIER>PROP_REG</IDENTIFIER>
+                  <PREFLABEL>Proposal for a regulation</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>PC</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3579</VALUE>
+                        <IDENTIFIER>3579</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3579</IDENTIFIER>
+                     <PREFLABEL>import restriction</PREFLABEL>
+                     <ALTLABEL>import ban</ALTLABEL>
+                     <ALTLABEL>suspension of imports</ALTLABEL>
+                     <ALTLABEL>limit on imports</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3584</VALUE>
+                        <IDENTIFIER>3584</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3584</IDENTIFIER>
+                     <PREFLABEL>trade restriction</PREFLABEL>
+                     <ALTLABEL>obstacle to trade</ALTLABEL>
+                     <ALTLABEL>restriction on trade</ALTLABEL>
+                     <ALTLABEL>trade defence</ALTLABEL>
+                     <ALTLABEL>trade barrier</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100194</VALUE>
+                        <IDENTIFIER>100194</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2021</IDENTIFIER>
+                     <PREFLABEL>2021 international trade</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <ID_CELEX type="data">
+                  <VALUE>51984PC0323</VALUE>
+               </ID_CELEX>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4081</VALUE>
+                        <IDENTIFIER>4081</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4081</IDENTIFIER>
+                     <PREFLABEL>seed</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2014</VALUE>
+                        <IDENTIFIER>2014</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2014</IDENTIFIER>
+                     <PREFLABEL>means of agricultural production</PREFLABEL>
+                     <ALTLABEL>agricultural engineering</ALTLABEL>
+                     <ALTLABEL>agricultural technology</ALTLABEL>
+                     <ALTLABEL>agricultural infrastructure</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100156</VALUE>
+                        <IDENTIFIER>100156</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>56</IDENTIFIER>
+                     <PREFLABEL>56 AGRICULTURE, FORESTRY AND FISHERIES</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100249</VALUE>
+                        <IDENTIFIER>100249</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5626</IDENTIFIER>
+                     <PREFLABEL>5626 means of agricultural production</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <TYPE>cdm:proposal_regulation_ec</TYPE>
+               <TYPE>cdm:proposal_act</TYPE>
+               <TYPE>cdm:act_preparatory_ec</TYPE>
+               <TYPE>cdm:act_preparatory</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>VORSCHLAG EINER VERORDNUNG ( EWG ) DES RATES MIT DEN GRUNDREGELN FUER DIE EINSCHRAENKENDEN MASSNAHMEN BEI DER EINFUHR VON HANF UND HANFSAATEN UND ZUR AENDERUNG DER VERORDNUNG ( EWG ) NR. 619/71 HINSICHTLICH HANF</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+                     <IDENTIFIER>DEU</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DEU</OP-CODE>
+                  <IDENTIFIER>DEU</IDENTIFIER>
+                  <PREFLABEL>German</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+            </EXPRESSION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/e4b0b5e7-0c3a-11e4-a7d0-01aa75ed71a1.0002</VALUE>
+            <IDENTIFIER>e4b0b5e7-0c3a-11e4-a7d0-01aa75ed71a1.0002</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/51984PC0323.DEU</VALUE>
+               <IDENTIFIER>51984PC0323.DEU</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/comnat/COM_1984_0323_FIN.DEU</VALUE>
+               <IDENTIFIER>COM_1984_0323_FIN.DEU</IDENTIFIER>
+               <TYPE>comnat</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/3579</VALUE>
+               <IDENTIFIER>3579</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>3579</IDENTIFIER>
+            <PREFLABEL>import restriction</PREFLABEL>
+            <ALTLABEL>import ban</ALTLABEL>
+            <ALTLABEL>suspension of imports</ALTLABEL>
+            <ALTLABEL>limit on imports</ALTLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/3584</VALUE>
+               <IDENTIFIER>3584</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>3584</IDENTIFIER>
+            <PREFLABEL>trade restriction</PREFLABEL>
+            <ALTLABEL>trade barrier</ALTLABEL>
+            <ALTLABEL>trade defence</ALTLABEL>
+            <ALTLABEL>restriction on trade</ALTLABEL>
+            <ALTLABEL>obstacle to trade</ALTLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+               <IDENTIFIER>100147</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>20</IDENTIFIER>
+            <PREFLABEL>20 TRADE</PREFLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/100194</VALUE>
+               <IDENTIFIER>100194</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>2021</IDENTIFIER>
+            <PREFLABEL>2021 international trade</PREFLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+      </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+      <BASED_ON type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/b37864ae-5a2c-428f-bf6c-673597e191a0</VALUE>
+            <IDENTIFIER>b37864ae-5a2c-428f-bf6c-673597e191a0</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/31982R1430</VALUE>
+               <IDENTIFIER>31982R1430</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/reg/1982/1430/oj</VALUE>
+               <IDENTIFIER>reg:1982:1430:oj</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1982_162_R_0027_028</VALUE>
+               <IDENTIFIER>JOL_1982_162_R_0027_028</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <ANNOTATION>
+            <PARAGRAPH>4</PARAGRAPH>
+            <ARTICLE>02</ARTICLE>
+            <COMMENT_ON_LEGAL_BASIS>A02P4</COMMENT_ON_LEGAL_BASIS>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:05/02/2015 14:44:31</BUILD_INFO>
+         </ANNOTATION>
+      </BASED_ON>
+      <IDENTIFIER type="data">
+         <VALUE>51984PC0323</VALUE>
+      </IDENTIFIER>
+      <RESOURCE_LEGAL_DATE_DISPATCH type="date">
+         <VALUE>1984-06-14</VALUE>
+         <YEAR>1984</YEAR>
+         <MONTH>06</MONTH>
+         <DAY>14</DAY>
+         <ANNOTATION>
+            <COMMENT_ON_DATE>{TRANS/CONS|http://publications.europa.eu/resource/authority/fd_340/TRANS%2FCONS}</COMMENT_ON_DATE>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:05/02/2015 14:44:31</BUILD_INFO>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_DATE_DISPATCH>
+      <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/b37864ae-5a2c-428f-bf6c-673597e191a0</VALUE>
+            <IDENTIFIER>b37864ae-5a2c-428f-bf6c-673597e191a0</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/31982R1430</VALUE>
+               <IDENTIFIER>31982R1430</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/reg/1982/1430/oj</VALUE>
+               <IDENTIFIER>reg:1982:1430:oj</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1982_162_R_0027_028</VALUE>
+               <IDENTIFIER>JOL_1982_162_R_0027_028</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <ANNOTATION>
+            <PARAGRAPH>4</PARAGRAPH>
+            <ARTICLE>02</ARTICLE>
+            <COMMENT_ON_LEGAL_BASIS>A02P4</COMMENT_ON_LEGAL_BASIS>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:05/02/2015 14:44:31</BUILD_INFO>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+      <ID_CELEX type="data">
+         <VALUE>51984PC0323</VALUE>
+      </ID_CELEX>
+      <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/6114681f-f49e-4a01-a19b-ef5f5aaebef5</VALUE>
+            <IDENTIFIER>6114681f-f49e-4a01-a19b-ef5f5aaebef5</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/31970R1308</VALUE>
+               <IDENTIFIER>31970R1308</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/reg/1970/1308/oj</VALUE>
+               <IDENTIFIER>reg:1970:1308:oj</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1970_146_R_0001_003</VALUE>
+               <IDENTIFIER>JOL_1970_146_R_0001_003</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <ANNOTATION>
+            <PARAGRAPH>4</PARAGRAPH>
+            <ARTICLE>04</ARTICLE>
+            <COMMENT_ON_LEGAL_BASIS>A04P4</COMMENT_ON_LEGAL_BASIS>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:05/02/2015 14:44:31</BUILD_INFO>
+         </ANNOTATION>
+      </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+      <BASED_ON type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/6114681f-f49e-4a01-a19b-ef5f5aaebef5</VALUE>
+            <IDENTIFIER>6114681f-f49e-4a01-a19b-ef5f5aaebef5</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/31970R1308</VALUE>
+               <IDENTIFIER>31970R1308</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/eli/reg/1970/1308/oj</VALUE>
+               <IDENTIFIER>reg:1970:1308:oj</IDENTIFIER>
+               <TYPE>eli</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/oj/JOL_1970_146_R_0001_003</VALUE>
+               <IDENTIFIER>JOL_1970_146_R_0001_003</IDENTIFIER>
+               <TYPE>oj</TYPE>
+            </URI>
+         </SAMEAS>
+         <ANNOTATION>
+            <PARAGRAPH>4</PARAGRAPH>
+            <ARTICLE>04</ARTICLE>
+            <COMMENT_ON_LEGAL_BASIS>A04P4</COMMENT_ON_LEGAL_BASIS>
+            <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:05/02/2015 14:44:31</BUILD_INFO>
+         </ANNOTATION>
+      </BASED_ON>
+      <WORK_HAS_EXPRESSION type="link">
+         <EMBEDDED_NOTICE>
+            <WORK>
+               <ID_SECTOR type="data">
+                  <VALUE>5</VALUE>
+               </ID_SECTOR>
+               <RESOURCE_LEGAL_NUMBER_NATURAL_CELEX type="data">
+                  <VALUE>0323</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL_CELEX>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>51984PC0323</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/036065</VALUE>
+                        <IDENTIFIER>036065</IDENTIFIER>
+                        <TYPE>dir-eu-legal-act</TYPE>
+                     </URI>
+                     <OP-CODE>036065</OP-CODE>
+                     <IDENTIFIER>036065</IDENTIFIER>
+                     <PREFLABEL>Flax and hemp</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/0360</VALUE>
+                        <IDENTIFIER>0360</IDENTIFIER>
+                        <TYPE>dir-eu-legal-act</TYPE>
+                     </URI>
+                     <OP-CODE>0360</OP-CODE>
+                     <IDENTIFIER>0360</IDENTIFIER>
+                     <PREFLABEL>Products subject to market organisation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/03</VALUE>
+                        <IDENTIFIER>03</IDENTIFIER>
+                        <TYPE>dir-eu-legal-act</TYPE>
+                     </URI>
+                     <OP-CODE>03</OP-CODE>
+                     <IDENTIFIER>03</IDENTIFIER>
+                     <PREFLABEL>Agriculture</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1>
+               </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE>
+               <YEAR type="data">
+                  <VALUE>1984</VALUE>
+               </YEAR>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/4081</VALUE>
+                     <IDENTIFIER>4081</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>4081</IDENTIFIER>
+                  <PREFLABEL>seed</PREFLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>1984</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <PART_OF type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+                     <IDENTIFIER>CELEX</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>CELEX</OP-CODE>
+                  <IDENTIFIER>CELEX</IDENTIFIER>
+                  <PREFLABEL>CELEX</PREFLABEL>
+               </PART_OF>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/3579</VALUE>
+                     <IDENTIFIER>3579</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>3579</IDENTIFIER>
+                  <PREFLABEL>import restriction</PREFLABEL>
+                  <ALTLABEL>import ban</ALTLABEL>
+                  <ALTLABEL>suspension of imports</ALTLABEL>
+                  <ALTLABEL>limit on imports</ALTLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/subject-matter/AGRI</VALUE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <TYPE>subject-matter</TYPE>
+                  </URI>
+                  <OP-CODE>AGRI</OP-CODE>
+                  <IDENTIFIER>AGRI</IDENTIFIER>
+                  <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/5384</VALUE>
+                     <IDENTIFIER>5384</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>5384</IDENTIFIER>
+                  <PREFLABEL>hemp</PREFLABEL>
+               </IS_ABOUT>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2194</VALUE>
+                        <IDENTIFIER>2194</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2194</IDENTIFIER>
+                     <PREFLABEL>agricultural guidance</PREFLABEL>
+                     <ALTLABEL>production premium</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2972</VALUE>
+                        <IDENTIFIER>2972</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2972</IDENTIFIER>
+                     <PREFLABEL>regulation of agricultural production</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100156</VALUE>
+                        <IDENTIFIER>100156</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>56</IDENTIFIER>
+                     <PREFLABEL>56 AGRICULTURE, FORESTRY AND FISHERIES</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100246</VALUE>
+                        <IDENTIFIER>100246</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5611</IDENTIFIER>
+                     <PREFLABEL>5611 agricultural structures and production</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <PART_OF type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/COM_NAT</VALUE>
+                     <IDENTIFIER>COM_NAT</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>COM_NAT</OP-CODE>
+                  <IDENTIFIER>COM_NAT</IDENTIFIER>
+                  <PREFLABEL>COM_NAT</PREFLABEL>
+               </PART_OF>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/3191</VALUE>
+                     <IDENTIFIER>3191</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>3191</IDENTIFIER>
+                  <PREFLABEL>import (EU)</PREFLABEL>
+                  <ALTLABEL>Community import</ALTLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/dir-eu-legal-act/036065</VALUE>
+                     <IDENTIFIER>036065</IDENTIFIER>
+                     <TYPE>dir-eu-legal-act</TYPE>
+                  </URI>
+                  <OP-CODE>036065</OP-CODE>
+                  <IDENTIFIER>036065</IDENTIFIER>
+                  <PREFLABEL>Flax and hemp</PREFLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/subject-matter/AGRI</VALUE>
+                        <IDENTIFIER>AGRI</IDENTIFIER>
+                        <TYPE>subject-matter</TYPE>
+                     </URI>
+                     <OP-CODE>AGRI</OP-CODE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <PREFLABEL>Agriculture and Fisheries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/2194</VALUE>
+                     <IDENTIFIER>2194</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>2194</IDENTIFIER>
+                  <PREFLABEL>agricultural guidance</PREFLABEL>
+                  <ALTLABEL>production premium</ALTLABEL>
+               </IS_ABOUT>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5384</VALUE>
+                        <IDENTIFIER>5384</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5384</IDENTIFIER>
+                     <PREFLABEL>hemp</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2417</VALUE>
+                        <IDENTIFIER>2417</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2417</IDENTIFIER>
+                     <PREFLABEL>textile plant</PREFLABEL>
+                     <ALTLABEL>fibre plant</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100157</VALUE>
+                        <IDENTIFIER>100157</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>60</IDENTIFIER>
+                     <PREFLABEL>60 AGRI-FOODSTUFFS</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100253</VALUE>
+                        <IDENTIFIER>100253</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>6006</IDENTIFIER>
+                     <PREFLABEL>6006 plant product</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/subject-matter/L-CH</VALUE>
+                        <IDENTIFIER>L-CH</IDENTIFIER>
+                        <TYPE>subject-matter</TYPE>
+                     </URI>
+                     <OP-CODE>L-CH</OP-CODE>
+                     <IDENTIFIER>L-CH</IDENTIFIER>
+                     <PREFLABEL>Flax and hemp</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3191</VALUE>
+                        <IDENTIFIER>3191</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3191</IDENTIFIER>
+                     <PREFLABEL>import (EU)</PREFLABEL>
+                     <ALTLABEL>Community import</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/614</VALUE>
+                        <IDENTIFIER>614</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>614</IDENTIFIER>
+                     <PREFLABEL>trading operation</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100193</VALUE>
+                        <IDENTIFIER>100193</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2016</IDENTIFIER>
+                     <PREFLABEL>2016 trade</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/subject-matter/L-CH</VALUE>
+                     <IDENTIFIER>L-CH</IDENTIFIER>
+                     <TYPE>subject-matter</TYPE>
+                  </URI>
+                  <OP-CODE>L-CH</OP-CODE>
+                  <IDENTIFIER>L-CH</IDENTIFIER>
+                  <PREFLABEL>Flax and hemp</PREFLABEL>
+               </IS_ABOUT>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>1984-06-12</VALUE>
+                  <YEAR>1984</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>12</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/PROP_REG</VALUE>
+                     <IDENTIFIER>PROP_REG</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>PROP_REG</OP-CODE>
+                  <IDENTIFIER>PROP_REG</IDENTIFIER>
+                  <PREFLABEL>Proposal for a regulation</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>PC</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3579</VALUE>
+                        <IDENTIFIER>3579</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3579</IDENTIFIER>
+                     <PREFLABEL>import restriction</PREFLABEL>
+                     <ALTLABEL>import ban</ALTLABEL>
+                     <ALTLABEL>suspension of imports</ALTLABEL>
+                     <ALTLABEL>limit on imports</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3584</VALUE>
+                        <IDENTIFIER>3584</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3584</IDENTIFIER>
+                     <PREFLABEL>trade restriction</PREFLABEL>
+                     <ALTLABEL>obstacle to trade</ALTLABEL>
+                     <ALTLABEL>restriction on trade</ALTLABEL>
+                     <ALTLABEL>trade defence</ALTLABEL>
+                     <ALTLABEL>trade barrier</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100194</VALUE>
+                        <IDENTIFIER>100194</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2021</IDENTIFIER>
+                     <PREFLABEL>2021 international trade</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <ID_CELEX type="data">
+                  <VALUE>51984PC0323</VALUE>
+               </ID_CELEX>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4081</VALUE>
+                        <IDENTIFIER>4081</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4081</IDENTIFIER>
+                     <PREFLABEL>seed</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2014</VALUE>
+                        <IDENTIFIER>2014</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2014</IDENTIFIER>
+                     <PREFLABEL>means of agricultural production</PREFLABEL>
+                     <ALTLABEL>agricultural engineering</ALTLABEL>
+                     <ALTLABEL>agricultural technology</ALTLABEL>
+                     <ALTLABEL>agricultural infrastructure</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100156</VALUE>
+                        <IDENTIFIER>100156</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>56</IDENTIFIER>
+                     <PREFLABEL>56 AGRICULTURE, FORESTRY AND FISHERIES</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100249</VALUE>
+                        <IDENTIFIER>100249</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5626</IDENTIFIER>
+                     <PREFLABEL>5626 means of agricultural production</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <TYPE>cdm:proposal_regulation_ec</TYPE>
+               <TYPE>cdm:proposal_act</TYPE>
+               <TYPE>cdm:act_preparatory_ec</TYPE>
+               <TYPE>cdm:act_preparatory</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+                     <IDENTIFIER>ITA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ITA</OP-CODE>
+                  <IDENTIFIER>ITA</IDENTIFIER>
+                  <PREFLABEL>Italian</PREFLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>PROPOSTA DI REGOLAMENTO(CEE)DEL CONSIGLIO CHE FISSA LE NORME GENERALI RELATIVE ALLE MISURE RESTRITTIVE ALL'IMPORTAZIONE DI CANAPA E DI SEMI DI CANAPA E CHE MODIFICA IL REGOLAMENTO(CEE)NO 619/71 PER QUANTO RIGUARDA LA CANAPA</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+         </EMBEDDED_NOTICE>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/e4b0b5e7-0c3a-11e4-a7d0-01aa75ed71a1.0004</VALUE>
+            <IDENTIFIER>e4b0b5e7-0c3a-11e4-a7d0-01aa75ed71a1.0004</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/comnat/COM_1984_0323_FIN.ITA</VALUE>
+               <IDENTIFIER>COM_1984_0323_FIN.ITA</IDENTIFIER>
+               <TYPE>comnat</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/51984PC0323.ITA</VALUE>
+               <IDENTIFIER>51984PC0323.ITA</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+      </WORK_HAS_EXPRESSION>
+      <WORK_CREATED_BY_AGENT type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/corporate-body/COM</VALUE>
+            <IDENTIFIER>COM</IDENTIFIER>
+            <TYPE>corporate-body</TYPE>
+         </URI>
+         <OP-CODE>COM</OP-CODE>
+         <IDENTIFIER>COM</IDENTIFIER>
+         <PREFLABEL>European Commission</PREFLABEL>
+         <ALTLABEL>EC</ALTLABEL>
+         <ALTLABEL>Commission</ALTLABEL>
+      </WORK_CREATED_BY_AGENT>
+      <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/4081</VALUE>
+               <IDENTIFIER>4081</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>4081</IDENTIFIER>
+            <PREFLABEL>seed</PREFLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/2014</VALUE>
+               <IDENTIFIER>2014</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>2014</IDENTIFIER>
+            <PREFLABEL>means of agricultural production</PREFLABEL>
+            <ALTLABEL>agricultural infrastructure</ALTLABEL>
+            <ALTLABEL>agricultural technology</ALTLABEL>
+            <ALTLABEL>agricultural engineering</ALTLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/100156</VALUE>
+               <IDENTIFIER>100156</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>56</IDENTIFIER>
+            <PREFLABEL>56 AGRICULTURE, FORESTRY AND FISHERIES</PREFLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+         <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+            <URI>
+               <VALUE>http://eurovoc.europa.eu/100249</VALUE>
+               <IDENTIFIER>100249</IDENTIFIER>
+               <TYPE>EUROVOC</TYPE>
+            </URI>
+            <IDENTIFIER>5626</IDENTIFIER>
+            <PREFLABEL>5626 means of agricultural production</PREFLABEL>
+         </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+      </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <TYPE>cdm:proposal_regulation_ec</TYPE>
+      <TYPE>cdm:proposal_act</TYPE>
+      <TYPE>cdm:act_preparatory_ec</TYPE>
+      <TYPE>cdm:act_preparatory</TYPE>
+      <TYPE>PC</TYPE>
+      <TYPE>cdm:resource_legal</TYPE>
+      <TYPE>cdm:work</TYPE>
+   </WORK>
+   <EXPRESSION>
+      <URI>
+         <VALUE>http://publications.europa.eu/resource/cellar/e4b0b5e7-0c3a-11e4-a7d0-01aa75ed71a1.0003</VALUE>
+         <IDENTIFIER>e4b0b5e7-0c3a-11e4-a7d0-01aa75ed71a1.0003</IDENTIFIER>
+         <TYPE>cellar</TYPE>
+      </URI>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/celex/51984PC0323.ENG</VALUE>
+            <IDENTIFIER>51984PC0323.ENG</IDENTIFIER>
+            <TYPE>celex</TYPE>
+         </URI>
+      </SAMEAS>
+      <SAMEAS>
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/comnat/COM_1984_0323_FIN.ENG</VALUE>
+            <IDENTIFIER>COM_1984_0323_FIN.ENG</IDENTIFIER>
+            <TYPE>comnat</TYPE>
+         </URI>
+      </SAMEAS>
+      <EXPRESSION_TITLE type="data">
+         <VALUE>PROPOSAL FOR A COUNCIL REGULATION ( EEC ) LAYING DOWN GENERAL RULES RELATING TO THE IMPORT RESTRICTIONS ON HEMP AND HEMP SEED AND AMENDING REGULATION ( EEC ) NO 619/71 IN RESPECT OF HEMP</VALUE>
+      </EXPRESSION_TITLE>
+      <EXPRESSION_BELONGS_TO_WORK type="link">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/cellar/e4b0b5e7-0c3a-11e4-a7d0-01aa75ed71a1</VALUE>
+            <IDENTIFIER>e4b0b5e7-0c3a-11e4-a7d0-01aa75ed71a1</IDENTIFIER>
+            <TYPE>cellar</TYPE>
+         </URI>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/celex/51984PC0323</VALUE>
+               <IDENTIFIER>51984PC0323</IDENTIFIER>
+               <TYPE>celex</TYPE>
+            </URI>
+         </SAMEAS>
+         <SAMEAS>
+            <URI>
+               <VALUE>http://publications.europa.eu/resource/comnat/COM_1984_0323_FIN</VALUE>
+               <IDENTIFIER>COM_1984_0323_FIN</IDENTIFIER>
+               <TYPE>comnat</TYPE>
+            </URI>
+         </SAMEAS>
+      </EXPRESSION_BELONGS_TO_WORK>
+      <TITLE type="data">
+         <VALUE>CELEX1</VALUE>
+      </TITLE>
+      <EXPRESSION_SUBTITLE type="data">
+         <VALUE>/* COM/84/323FINAL */</VALUE>
+      </EXPRESSION_SUBTITLE>
+      <LANG type="data">
+         <VALUE>en</VALUE>
+      </LANG>
+      <CREATIONDATE type="date">
+         <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+         <YEAR>1001</YEAR>
+         <MONTH>01</MONTH>
+         <DAY>01</DAY>
+      </CREATIONDATE>
+      <TITLE type="data">
+         <VALUE>/* COM/84/323FINAL */</VALUE>
+      </TITLE>
+      <LASTMODIFICATIONDATE type="date">
+         <VALUE>2015-02-06T13:11:11.020+01:00</VALUE>
+         <YEAR>2015</YEAR>
+         <MONTH>02</MONTH>
+         <DAY>06</DAY>
+      </LASTMODIFICATIONDATE>
+      <EXPRESSION_USES_LANGUAGE type="concept">
+         <URI>
+            <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+            <IDENTIFIER>ENG</IDENTIFIER>
+            <TYPE>language</TYPE>
+         </URI>
+         <OP-CODE>ENG</OP-CODE>
+         <IDENTIFIER>ENG</IDENTIFIER>
+         <PREFLABEL>English</PREFLABEL>
+         <ALTLABEL>English</ALTLABEL>
+      </EXPRESSION_USES_LANGUAGE>
+      <LANG type="data">
+         <VALUE>eng</VALUE>
+      </LANG>
+      <TITLE type="data">
+         <VALUE>PROPOSAL FOR A COUNCIL REGULATION ( EEC ) LAYING DOWN GENERAL RULES RELATING TO THE IMPORT RESTRICTIONS ON HEMP AND HEMP SEED AND AMENDING REGULATION ( EEC ) NO 619/71 IN RESPECT OF HEMP</VALUE>
+      </TITLE>
+   </EXPRESSION>
+</NOTICE>
