@@ -1,52 +1,34 @@
-## DECRETO – Expediente DG/74/24 (cannabis medicinal) – Misión y objetivos
+# Fuentes primarias - Cannabis medicinal y cañamo industrial (UE/España/Alemania)
 
-Este directorio contiene el **expediente administrativo** y documentación asociada a la tramitación del proyecto de Real Decreto sobre **fórmulas magistrales tipificadas de preparados estandarizados de cannabis**, convertido a Markdown en `markdown/` (con PDFs originales en `pdfs/`).
+Repositorio de fuentes primarias objetivas para análisis jurídico sobre la fiscalización del cannabis y cáñamo industrial en el contexto de la UE.
 
-### Contexto (quiénes somos y por qué existe este repo)
+## Contenido
 
-Somos **Cannactiva**, empresa líder de CBD en España, y estamos impulsando (con dirección letrada) un **recurso contencioso‑administrativo** para **proteger el sector del cáñamo industrial/CBD** y forzar una **clarificación interpretativa** (o, en su caso, la anulación de extremos) que hoy se está usando para bloquear actividad lícita.
+### convenios/
+Tratados internacionales de control de estupefacientes y psicotrópicos:
+- **Convencion_Unica_1961_ES.md** - Convención Única de 1961 sobre Estupefacientes (texto completo en español)
+- **Convenio_Sustancias_Sicotropicas_1971_ES.md** - Convenio sobre Sustancias Psicotrópicas de 1971 (texto completo en español)
+- **Commentary_1972_Protocol_Amending_1961.md** - Comentario oficial al Protocolo de 1972 que enmienda la Convención de 1961
+- **Commentary_Convention_1971.md** - Comentario oficial al Convenio de 1971
 
-En la práctica, el bloqueo se apoya en una idea repetida por la Administración: **“el cannabis es estupefaciente independientemente de su contenido en THC/cannabinoides”**, lo que se proyecta sobre:
+### jurisprudencia_ue/
+Sentencias y conclusiones del TJUE relevantes:
+- **Evans_Medical_C-324-93_ES.md** - TJUE C-324/93: libre circulación de estupefacientes entre EEMM, proporcionalidad, deber de abstención (español)
+- **Wolf_221-81_Sentencia_EN.md** - TJUE C-221/81: canales controlados de distribución de estupefacientes (inglés)
+- **Wolf_221-81_Conclusiones_AG_EN.md** - Conclusiones del Abogado General en Wolf (inglés)
+- **Kanavape_TJUE_2018_EN.md** - TJUE sobre CBD: no es estupefaciente, libre circulación (inglés)
 
-- Venta de **flores de CBD** (actualmente comercializadas como ornamental/coleccionismo; objetivo: permitir también usos típicos de “hierbas para fumar” cuando proceda, como en otros Estados UE).
-- Venta de **cosméticos con CBD**.
-- Venta de **extractos de CBD** (y derivados).
+### real_decreto_espana/
+Real Decreto de cannabis medicinal de España (rev. 15/07/2025):
+- **09. RD Cannabis medicinal_rev15072025.md** - Texto final del Real Decreto
+- **MAIN_parte_1.md** a **MAIN_parte_4.md** - Memoria de Análisis del Impacto Normativo (MAIN) completa, dividida en 4 partes
 
-Un eje clave del expediente es la **tensión MAPA vs. Sanidad** en torno al antiguo **artículo 3.1** (definición/alcance de la fiscalización) y su **supresión** sin trazabilidad clara.
+### legislacion_alemania/
+Legislación alemana sobre cannabis (vigente desde 01/04/2024):
+- **Alemania_Regelungstext_CanG.md** - Cannabisgesetz (CanG): ley general de cannabis, incluye modificación del BtMG y regulación de Nutzhanf
+- **Alemania_MedCanG.md** - Medizinal-Cannabisgesetz (MedCanG): ley de cannabis medicinal, régimen de permisos y autorizaciones BfArM
 
-### Misión del directorio
-
-Convertir el expediente en una **base probatoria y argumental** utilizable por el equipo jurídico, con foco en:
-
-- **Hechos del expediente** (qué dijo cada órgano, en qué fecha y en qué documento).
-- **Cronología** (cómo evoluciona el texto del RD y la MAIN).
-- **Contradicciones internas** y **vacíos de motivación** (p. ej., cambios “No se acepta” → “Ya se encuentra suprimido”).
-- **Encaje UE / internacional** (34/36 TFUE, proporcionalidad, Convenios ONU, recomendaciones OMS/ECDD, etc.), siempre distinguiendo *fuentes del expediente* vs *fuentes externas*.
-
-### Objetivos (prácticos)
-
-- **Objetivo 1 – Completar expediente**: detectar antecedentes/documentos faltantes y preparar solicitudes de complemento (art. 55 LJCA).
-- **Objetivo 2 – Construir narrativa probatoria**: localizar “puntos de inflexión” (especialmente art. 3.1) y documentarlos con referencias (documento/folio/página).
-- **Objetivo 3 – Proteger sector cáñamo/CBD**: sostener, con base técnica/jurídica, que la interpretación “todo cannabis = estupefaciente” aplicada a **flores/extractos CBD de bajo THC** es, como mínimo, discutible y debe ser clarificada/limitada, con especial atención a:
-  - umbrales (0,2% / 0,3% / 1%),
-  - ausencia de efectos psicotrópicos,
-  - farmacología vs psicotropía,
-  - “Cannabis flos” (Farmacopea Europea 3028) como quimiotipos.
-
-### Método de trabajo (reglas de calidad)
-
-- **Citas obligatorias**: toda afirmación relevante debe citar **archivo + página/folio** (y, si aplica, líneas del Markdown).
-- **Separar “hecho” de “argumento”**: marcar explícitamente qué es literal del expediente y qué es inferencia/tesis.
-- **Primero Gobierno, luego terceros**: priorizar informes y respuestas oficiales (Sanidad/AEMPS, MAPA, CCAA, otros ministerios, MAIN).
-- **No inventar**: si no hay una pieza en el expediente, se dice “no consta” y se propone **pedirla**.
-- **Idioma**: español.
-
-### Estructura del repo
-
-- `pdfs/`: PDFs originales.
-- `markdown/`: PDFs convertidos a Markdown (con cabecera YAML y marcas de página).
-
-### Nota
-
-Este repositorio y sus notas sirven de **apoyo técnico‑documental** al equipo jurídico. No sustituyen asesoramiento legal profesional.
-
+## Notas
+- Todos los documentos son fuentes primarias públicas (legislación, tratados, sentencias)
+- Formato Markdown convertido desde PDFs originales
+- No contiene análisis, opiniones ni documentos internos
