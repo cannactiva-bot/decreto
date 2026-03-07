@@ -1,34 +1,59 @@
-# Fuentes primarias - Cannabis medicinal y cañamo industrial (UE/España/Alemania)
+# Recurso al Real Decreto 903/2025 — Cannabis Medicinal
 
-Repositorio de fuentes primarias objetivas para análisis jurídico sobre la fiscalización del cannabis y cáñamo industrial en el contexto de la UE.
+Repositorio de trabajo para el recurso contencioso-administrativo contra el RD 903/2025 (BOE-A-2025-20077) ante la Sala Tercera del Tribunal Supremo.
 
-## Contenido
+**Procedimiento:** Ordinario nº 1/0000395/2025 | N.I.G: 28079 13 3 2025 0000680
 
-### convenios/
-Tratados internacionales de control de estupefacientes y psicotrópicos:
-- **Convencion_Unica_1961_ES.md** - Convención Única de 1961 sobre Estupefacientes (texto completo en español)
-- **Convenio_Sustancias_Sicotropicas_1971_ES.md** - Convenio sobre Sustancias Psicotrópicas de 1971 (texto completo en español)
-- **Commentary_1972_Protocol_Amending_1961.md** - Comentario oficial al Protocolo de 1972 que enmienda la Convención de 1961
-- **Commentary_Convention_1971.md** - Comentario oficial al Convenio de 1971
+**Deadline:** Lunes 9 de marzo de 2026
 
-### jurisprudencia_ue/
-Sentencias y conclusiones del TJUE relevantes:
-- **Evans_Medical_C-324-93_ES.md** - TJUE C-324/93: libre circulación de estupefacientes entre EEMM, proporcionalidad, deber de abstención (español)
-- **Wolf_221-81_Sentencia_EN.md** - TJUE C-221/81: canales controlados de distribución de estupefacientes (inglés)
-- **Wolf_221-81_Conclusiones_AG_EN.md** - Conclusiones del Abogado General en Wolf (inglés)
-- **Kanavape_TJUE_2018_EN.md** - TJUE sobre CBD: no es estupefaciente, libre circulación (inglés)
+---
 
-### real_decreto_espana/
-Real Decreto de cannabis medicinal de España (rev. 15/07/2025):
-- **09. RD Cannabis medicinal_rev15072025.md** - Texto final del Real Decreto
-- **MAIN_parte_1.md** a **MAIN_parte_4.md** - Memoria de Análisis del Impacto Normativo (MAIN) completa, dividida en 4 partes
+## Estructura
 
-### legislacion_alemania/
-Legislación alemana sobre cannabis (vigente desde 01/04/2024):
-- **Alemania_Regelungstext_CanG.md** - Cannabisgesetz (CanG): ley general de cannabis, incluye modificación del BtMG y regulación de Nutzhanf
-- **Alemania_MedCanG.md** - Medizinal-Cannabisgesetz (MedCanG): ley de cannabis medicinal, régimen de permisos y autorizaciones BfArM
+### Raíz
+- `COMENTARIOS_V3_PARA_JOSE_MARIA.md` — Observaciones del equipo a la demanda v3
+- `CL_20.2024_INCB_NAR_CL.20_2024.md` — Carta JIFE (Circular CL 20/2024)
+- `Attachment_to_Cannabis_CL_020-2024.md` — Anexo técnico de la carta JIFE
+- Convenios internacionales (textos y comentarios)
 
-## Notas
-- Todos los documentos son fuentes primarias públicas (legislación, tratados, sentencias)
-- Formato Markdown convertido desde PDFs originales
-- No contiene análisis, opiniones ni documentos internos
+### markdown/
+Expediente completo en formato Markdown:
+
+**Norma impugnada:**
+- `BOE_RD_903_2025.md` — Real Decreto 903/2025 (texto BOE)
+
+**Demanda:**
+- `demanda_recurso_rd903_v3.md` — Versión actual de la demanda (v3)
+- `demanda_recurso_rd903.md` — Versión anterior (para comparación)
+
+**Expediente administrativo (docs 00-42):**
+- `00.` a `42.` — Índice, versiones del RD, MAINs, informes ministeriales, alegaciones, dictamen Consejo de Estado
+- `10. MAIN RD cannabis medicinal_rev15072025.md` — MAIN versión final (15/07/2025)
+- `21. Informe MAPA.md` — Informe del Ministerio de Agricultura
+- `26. Informe OCCN.md` — Informe de la Oficina de Coordinación y Calidad Normativa
+- `32. Informes CCAA.md` — Informes de las Comunidades Autónomas
+- `41. Aportaciones CPP_RD_Cannabis.md` — Aportaciones consulta pública previa
+- `42. Dictamen Consejo de Estado 731.2025.md` — Dictamen del Consejo de Estado
+
+**Soporte jurídico:**
+- `informe_amco.md` — Informe AMCO (Araceli Manjón-Cabeza, UCM)
+- `Convencion_Unica_1961_ES.md` — Convención Única de 1961
+- `Convenio_Sustancias_Sicotropicas_1971_ES.md` — Convenio de 1971
+- `Evans_Medical_C-324-93_ES.md` — STJUE Evans Medical
+- `Alemania_MedCanG.md` / `Alemania_Regelungstext_CanG.md` — Legislación alemana
+
+**Reportes de análisis:**
+- `REPORTE_LICENCIAS_Y_MATERIA_PRIMA_CANNABIS.md` — Análisis licencias y materia prima
+- `INFORME_ANALISIS_CLASIFICACION_CN61_CN71_JUDO.md` — Clasificación CN61/CN71
+- `REPORTE_PUNTO_INFLEXION_ARTICULO_3_1.md` — Punto de inflexión Art. 3.1
+
+### demandav3_images/
+6 imágenes extraídas del DOCX de la demanda v3 (capturas del articulado del primer borrador del RD).
+
+---
+
+## Estado actual (6 marzo 2026)
+
+- Demanda v3 recibida y analizada
+- Comentarios enviados al abogado
+- Pendiente: incorporación de observaciones antes del lunes 9
