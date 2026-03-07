@@ -105,17 +105,7 @@ Sin embargo, **no es hipotético: ya existe en la práctica.** Bedrocan (Países
 
 ---
 
-## 4. RESPUESTA DE SANIDAD A LA ALEGACIÓN 114 (MINISTERIO DE PRESIDENCIA)
-
-Queremos destacar un elemento del expediente que refuerza la lectura del Art. 5.2. Cuando el Ministerio de Presidencia (Alegación nº 114) argumentó que *"todos los preparados son derivados del cannabis, por tanto SIEMPRE se necesita licencia de estupefacientes (Ley 17/1967)"*, Sanidad **rechazó** esta interpretación:
-
-> *«No se acepta. Podría darse el caso en el que el laboratorio farmacéutico fabricante utilice como material de partida una **sustancia no estupefaciente** (por ejemplo, extracto de cannabis con un contenido de THC igual o superior a 0,2% en peso, que tendría la consideración de psicótropo). Por tanto, **en tanto en cuanto no maneje estupefacientes no se requeriría la autorización prevista en la Ley 17/1967**, de 8 de abril.»*
-
-Es decir, **la propia Sanidad admite** que un extracto de cannabis puede ser material de partida y NO ser estupefaciente. Esto confirma que el "según proceda" del Art. 5.2 debe interpretarse como que **no siempre procede** aplicar la legislación de estupefacientes a los materiales de partida. Si Sanidad admite que hay materiales de partida que no son estupefacientes, el Art. 5.2 no puede imponer indiscriminadamente esa legislación.
-
----
-
-## 5. CORRECCIONES MENORES
+## 4. CORRECCIONES MENORES
 
 1. **Errata "tetrahidrocannabidiol"**: En el Fundamento PRIMERO, apartado 1, la demanda transcribe el Art. 2.c) como "Delta-9-**tetrahidrocannabidiol**". Debería ser "Delta-9-**tetrahidrocannabinol**" (con "nol", no "diol"). Es una errata menor (el contexto deja claro que se refiere al THC), pero conviene corregirla antes de presentar.
 
@@ -128,21 +118,20 @@ Es decir, **la propia Sanidad admite** que un extracto de cannabis puede ser mat
 | # | Sugerencia | Prioridad | Dónde |
 |---|---|---|---|
 | 1 | **Incorporar cita OCCN** (preparado ≠ medicamento) | **ALTA** | Fund. TERCERO, Art. 5.2 |
-| 2 | **Citar respuesta de Sanidad a Alegación 114** (extracto = no estupefaciente) | **ALTA** | Fund. TERCERO, Art. 5.2 |
-| 3 | **Corregir errata** "tetrahidrocannabidiol" → "tetrahidrocannabinol" | **ALTA** | Fund. PRIMERO, apt. 1 |
-| 4 | Reformular frase del 0,3% → referir a OCM/PAC como fuente del umbral | MEDIA | Fund. SEGUNDO |
-| 5 | Reubicar café/azúcar de nota al pie a cuerpo Fund. PRIMERO (Art. 2.d) | MEDIA | Fund. PRIMERO |
-| 6 | Clarificar narcoticidad vs psicoactividad en Art. 2.d | MEDIA | Fund. PRIMERO |
-| 7 | Sustituir caso hipotético semillas por ejemplos reales (Bedrocan, Linneo, Tilray 18%) | MEDIA | Fund. PRIMERO, Art. 2.a |
-| 8 | Citar Manual ST/NAR/40 como origen del dato de distribución THC en planta | BAJA | Fund. SEGUNDO |
-| 9 | Monografía Cannabis flos 3028 (quimiotipo CBD hasta 1% THC) | BAJA | Fund. SEGUNDO |
-| 10 | Monografía alemana de extractos (1-25% THC) | BAJA | Fund. SEGUNDO |
-| 11 | República Checa (1% THC) — con cautela por posible falta de notificación TRIS | BAJA | Fund. SEGUNDO |
-| 12 | Verificar numeración interna Fund. SEGUNDO en DOCX | BAJA | Fund. SEGUNDO |
+| 2 | **Corregir errata** "tetrahidrocannabidiol" → "tetrahidrocannabinol" | **ALTA** | Fund. PRIMERO, apt. 1 |
+| 3 | Reformular frase del 0,3% → referir a OCM/PAC como fuente del umbral | MEDIA | Fund. SEGUNDO |
+| 4 | Reubicar café/azúcar de nota al pie a cuerpo Fund. PRIMERO (Art. 2.d) | MEDIA | Fund. PRIMERO |
+| 5 | Clarificar narcoticidad vs psicoactividad en Art. 2.d | MEDIA | Fund. PRIMERO |
+| 6 | Sustituir caso hipotético semillas por ejemplos reales (Bedrocan, Linneo, Tilray 18%) | MEDIA | Fund. PRIMERO, Art. 2.a |
+| 7 | Citar Manual ST/NAR/40 como origen del dato de distribución THC en planta | BAJA | Fund. SEGUNDO |
+| 8 | Monografía Cannabis flos 3028 (quimiotipo CBD hasta 1% THC) | BAJA | Fund. SEGUNDO |
+| 9 | Monografía alemana de extractos (1-25% THC) | BAJA | Fund. SEGUNDO |
+| 10 | República Checa (1% THC) — con cautela por posible falta de notificación TRIS | BAJA | Fund. SEGUNDO |
+| 11 | Verificar numeración interna Fund. SEGUNDO en DOCX | BAJA | Fund. SEGUNDO |
 
 ---
 
-Quedamos a disposición para lo que necesitéis este fin de semana. La demanda está en muy buena forma. Con las incorporaciones 1 y 2 (OCCN y Alegación 114), el Art. 5.2 queda blindado como pieza angular.
+Quedamos a disposición para lo que necesitéis este fin de semana. La demanda está en muy buena forma. Con la incorporación de la OCCN, el Art. 5.2 queda reforzado como pieza angular.
 
 Un abrazo,
 Equipo CannabisHub
