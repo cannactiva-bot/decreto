@@ -105,11 +105,27 @@ Sin embargo, **no es hipotético: ya existe en la práctica.** Bedrocan (Países
 
 ---
 
-## 4. CORRECCIONES MENORES
+## 4. OBSERVACIÓN DE TONO EN EL BLOQUE DE DERECHO UE
+
+En el bloque de cooperación leal y Derecho de la Unión (Fundamento SEGUNDO, subsección 5-6), hay algunas expresiones que quizá convendría suavizar un punto para ganar credibilidad ante la Sala. No se trata de rebajar el argumento, sino de que el tono no reste fuerza al fondo:
+
+- *"frontalmente contrario a los objetivos perseguidos por la Posición Común"* → quizá mejor: "de difícil conciliación con los objetivos perseguidos..."
+- *"flagrante desviación respecto de la Posición Común"* → quizá: "desviación significativa respecto de..."
+- *"diametralmente opuestos a tal situación"* → quizá: "en clara tensión con los objetivos estratégicos de dicha posición"
+
+La idea de fondo es muy buena (la Decisión 2021/3 busca reducir fiscalización, el RD la incrementa). Pero expresiones como "frontalmente" o "flagrante" pueden percibirse como retóricas en un recurso tan técnico, y dar pie a que la Abogacía del Estado las use para restar seriedad al argumento.
+
+---
+
+## 5. CORRECCIONES TÉCNICAS
 
 1. **Errata "tetrahidrocannabidiol"**: En el Fundamento PRIMERO, apartado 1, la demanda transcribe el Art. 2.c) como "Delta-9-**tetrahidrocannabidiol**". Debería ser "Delta-9-**tetrahidrocannabinol**" (con "nol", no "diol"). Es una errata menor (el contexto deja claro que se refiere al THC), pero conviene corregirla antes de presentar.
 
-2. **Numeración Fundamento SEGUNDO**: Las subsecciones del Fundamento SEGUNDO aparecen todas numeradas como "1." en lugar de numeración progresiva (1, 2, 3, 4, 5, 6). Puede ser un problema de formato Word, pero conviene verificar en el DOCX original.
+2. **Art. 4.2 → 4.3 TUE**: En el Fundamento SEGUNDO, subsección de cooperación leal, hay una referencia al *"artículo 4.2 del Tratado de la Unión Europea"* que debería ser **4.3 TUE** (principio de cooperación leal). Curiosamente, unas líneas más abajo sí aparece correctamente como "artículo 4.3 TUE". Es solo una de las dos menciones la que está mal.
+
+3. **Fecha sentencia BIOS**: La demanda cita la STJUE BIOS como "de **20** de abril de 2009". Convendría verificar si la fecha correcta es 30 de abril de 2009 (la referencia del asunto C-27/08 es correcta, pero la fecha podría estar desplazada 10 días).
+
+4. **Numeración Fundamento SEGUNDO**: Las subsecciones del Fundamento SEGUNDO aparecen todas numeradas como "1." en lugar de numeración progresiva (1, 2, 3, 4, 5, 6). Puede ser un problema de formato Word, pero conviene verificar en el DOCX original.
 
 ---
 
@@ -119,15 +135,18 @@ Sin embargo, **no es hipotético: ya existe en la práctica.** Bedrocan (Países
 |---|---|---|---|
 | 1 | **Incorporar cita OCCN** (preparado ≠ medicamento) | **ALTA** | Fund. TERCERO, Art. 5.2 |
 | 2 | **Corregir errata** "tetrahidrocannabidiol" → "tetrahidrocannabinol" | **ALTA** | Fund. PRIMERO, apt. 1 |
-| 3 | Reformular frase del 0,3% → referir a OCM/PAC como fuente del umbral | MEDIA | Fund. SEGUNDO |
-| 4 | Reubicar café/azúcar de nota al pie a cuerpo Fund. PRIMERO (Art. 2.d) | MEDIA | Fund. PRIMERO |
-| 5 | Clarificar narcoticidad vs psicoactividad en Art. 2.d | MEDIA | Fund. PRIMERO |
-| 6 | Sustituir caso hipotético semillas por ejemplos reales (Bedrocan, Linneo, Tilray 18%) | MEDIA | Fund. PRIMERO, Art. 2.a |
-| 7 | Citar Manual ST/NAR/40 como origen del dato de distribución THC en planta | BAJA | Fund. SEGUNDO |
-| 8 | Monografía Cannabis flos 3028 (quimiotipo CBD hasta 1% THC) | BAJA | Fund. SEGUNDO |
-| 9 | Monografía alemana de extractos (1-25% THC) | BAJA | Fund. SEGUNDO |
-| 10 | República Checa (1% THC) — con cautela por posible falta de notificación TRIS | BAJA | Fund. SEGUNDO |
-| 11 | Verificar numeración interna Fund. SEGUNDO en DOCX | BAJA | Fund. SEGUNDO |
+| 3 | **Corregir art. 4.2 → 4.3 TUE** | **ALTA** | Fund. SEGUNDO, cooperación leal |
+| 4 | **Verificar fecha BIOS** (¿20 o 30 de abril de 2009?) | **ALTA** | Fund. PRIMERO, apt. 2 y 3 |
+| 5 | Suavizar tono en bloque UE ("frontalmente", "flagrante", "diametralmente") | MEDIA | Fund. SEGUNDO |
+| 6 | Reformular frase del 0,3% → referir a OCM/PAC como fuente del umbral | MEDIA | Fund. SEGUNDO |
+| 7 | Reubicar café/azúcar de nota al pie a cuerpo Fund. PRIMERO (Art. 2.d) | MEDIA | Fund. PRIMERO |
+| 8 | Clarificar narcoticidad vs psicoactividad en Art. 2.d | MEDIA | Fund. PRIMERO |
+| 9 | Sustituir caso hipotético semillas por ejemplos reales (Bedrocan, Linneo, Tilray 18%) | MEDIA | Fund. PRIMERO, Art. 2.a |
+| 10 | Citar Manual ST/NAR/40 como origen del dato de distribución THC en planta | BAJA | Fund. SEGUNDO |
+| 11 | Monografía Cannabis flos 3028 (quimiotipo CBD hasta 1% THC) | BAJA | Fund. SEGUNDO |
+| 12 | Monografía alemana de extractos (1-25% THC) | BAJA | Fund. SEGUNDO |
+| 13 | República Checa (1% THC) — con cautela por posible falta de notificación TRIS | BAJA | Fund. SEGUNDO |
+| 14 | Verificar numeración interna Fund. SEGUNDO en DOCX | BAJA | Fund. SEGUNDO |
 
 ---
 
