@@ -1,0 +1,29 @@
+METADATOS - Paper sin acceso libre (paywall Oxford University Press)
+
+Titulo: Histopathologic and molecular alterations in bronchial epithelium in habitual smokers of
+marijuana, cocaine, and/or tobacco
+Autores: Barsky S.H., Roth M.D., Kleerup E.C., Simmons M., Tashkin D.P.
+Afiliacion: UCLA School of Medicine
+Revista: Journal of the National Cancer Institute (JNCI)
+Anio: 1998 (19 de agosto)
+Volumen / Numero: 90(16)
+Paginas: 1198-1205
+DOI: 10.1093/jnci/90.16.1198
+PMID: 9719080
+URL abstract: https://pubmed.ncbi.nlm.nih.gov/9719080/
+URL editor (paywall): https://academic.oup.com/jnci/article/90/16/1198/2519913
+
+ABSTRACT:
+Objetivo: investigar si las alteraciones moleculares e histopatologicas pre-cancerosas se producen
+en consumidores habituales de marihuana y/o cocaina (con o sin uso concomitante de tabaco).
+Metodo: broncoscopia con biopsias bronquiales en 104 voluntarios sanos: 28 no fumadores y 76
+fumadores de una o mas sustancias (incluyendo marihuana). Se evaluaron 10 parametros histopatologicos
+y marcadores moleculares (Ki-67, EGFR, p53).
+Resultados: los fumadores presentaron mas alteraciones que los no fumadores en 5 a 9 de los 10
+parametros histopatologicos investigados (P < 0.05), sugiriendo que estas sustancias producen
+efectos de pre-cancerizacion del epitelio bronquial similares a los del tabaco. Sobreexpresion
+de Ki-67 y EGFR en fumadores de marihuana.
+Conclusion: Las alteraciones moleculares e histopatologicas observadas indican que el cannabis
+fumado de manera habitual produce cambios pre-malignos en el epitelio bronquial.
+
+NOTA: Articulo bajo paywall en Oxford Academic. No disponible en PMC. Se conserva metadata completa.

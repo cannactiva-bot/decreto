@@ -1,0 +1,34 @@
+METADATOS - Paper sin acceso libre (paywall AACR Journals)
+
+Titulo: Marijuana use and the risk of lung and upper aerodigestive tract cancers: results of a
+population-based case-control study
+Autores: Hashibe M., Morgenstern H., Cui Y., Tashkin D.P., Zhang Z.F., Cozen W., Mack T.M.,
+Greenland S.
+Afiliacion: UCLA Fielding School of Public Health
+Revista: Cancer Epidemiology, Biomarkers & Prevention (CEBP) - AACR
+Anio: 2006 (octubre)
+Volumen / Numero: 15(10)
+Paginas: 1829-1834
+DOI: 10.1158/1055-9965.EPI-06-0330
+PMID: 17035389
+URL abstract: https://pubmed.ncbi.nlm.nih.gov/17035389/
+URL editor (paywall): https://aacrjournals.org/cebp/article/15/10/1829/260722/
+
+ABSTRACT:
+Estudio caso-control poblacional en Los Angeles. Casos: 1.212 pacientes con cancer incidente de
+pulmon y/o tracto aerodigestivo superior (cabeza y cuello, faringe, laringe, oral). Controles:
+1.040 personas sin cancer, emparejadas por edad, sexo y vecindario. Exposicion acumulada al
+cannabis medida en "joint-years" (1 joint-year = 1 cigarrillo/dia durante 1 ano).
+Resultados clave: "Aunque el uso de marihuana >=30 joint-years estuvo positivamente asociado a
+cada tipo de cancer (excepto faringeo) en analisis crudos, NO se observaron asociaciones positivas
+al ajustar por varios factores de confusion incluyendo el tabaquismo." Las odds ratios ajustadas
+para los distintos tipos de cancer estuvieron generalmente en o por debajo de 1.0.
+Conclusion textual de los autores: "La asociacion de estos canceres con la marihuana, incluso con
+uso prolongado o intenso, no es fuerte y puede estar por debajo de los limites practicamente
+detectables."
+
+RELEVANCIA PARA DOSSIER CNMC/AECANI: Este es el estudio mas grande caso-control sobre cannabis y
+cancer pulmonar. Sus resultados negativos contradicen la hipotesis de que el cannabis fumado sea
+un carcinogeno comparable al tabaco a las dosis tipicas de uso recreativo.
+
+NOTA: Articulo bajo paywall en AACR. No disponible gratis en PMC ni Europe PMC. Se conserva metadata.

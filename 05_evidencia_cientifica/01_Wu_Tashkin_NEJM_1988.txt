@@ -1,0 +1,28 @@
+METADATOS - Paper sin acceso libre (paywall NEJM)
+
+Titulo: Pulmonary hazards of smoking marijuana as compared with tobacco
+Autores: Wu T.C., Tashkin D.P., Djahed B., Rose J.E.
+Afiliacion: University of California at Los Angeles School of Medicine
+Revista: New England Journal of Medicine (NEJM)
+Anio: 1988
+Volumen / Numero: 318(6)
+Paginas: 347-351
+Fecha publicacion: 11 de febrero de 1988
+DOI: 10.1056/NEJM198802113180603
+PMID: 3340105
+URL abstract: https://pubmed.ncbi.nlm.nih.gov/3340105/
+URL editor: https://www.nejm.org/doi/abs/10.1056/nejm198802113180603
+
+ABSTRACT (resumen extraido de PubMed):
+Estudio comparativo en 15 varones consumidores habituales de cannabis y tabaco. Cuantificaron la
+carga relativa al pulmon de particulas insolubles (alquitran) y de monoxido de carbono procedentes
+del humo de cantidades similares de marihuana y tabaco. Hallazgos clave:
+- Fumar marihuana produjo "un incremento casi cinco veces mayor en los niveles de carboxihemoglobina
+  en sangre" comparado con el tabaco.
+- "Aproximadamente un aumento de tres veces en la cantidad de alquitran inhalado" con cigarrillos
+  de marihuana de peso similar a los de tabaco.
+- Los autores concluyen que fumar marihuana, independientemente del contenido de THC, produce una
+  carga respiratoria sustancialmente mayor de monoxido de carbono y alquitran que fumar una cantidad
+  similar de tabaco.
+
+NOTA: Articulo bajo paywall en NEJM. No disponible en PMC. Se conserva metadata completa para cita.

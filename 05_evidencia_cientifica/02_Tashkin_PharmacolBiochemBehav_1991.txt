@@ -1,0 +1,29 @@
+METADATOS - Paper sin acceso libre (paywall Elsevier / ScienceDirect)
+
+Titulo: Effects of varying marijuana smoking profile on deposition of tar and absorption of CO
+and delta-9-THC
+Autores: Tashkin D.P., Gliederer F., Rose J., Change P., Hui K.K., Yu J.L., Wu T.C.
+Revista: Pharmacology, Biochemistry and Behavior
+Anio: 1991 (noviembre)
+Volumen / Numero: 40(3)
+Paginas: 651-656
+DOI: 10.1016/0091-3057(91)90377-E
+PMID: 1666923
+URL abstract: https://pubmed.ncbi.nlm.nih.gov/1666923/
+URL editor: https://www.sciencedirect.com/science/article/abs/pii/009130579190377E
+
+ABSTRACT:
+Estudio en 10 fumadores habituales de marihuana usando 6 perfiles diferentes de fumado, variando
+el volumen de inhalacion (puff volume) y el tiempo de retencion de la respiracion (breath-holding
+time, BHT). Hallazgo principal: "El BHT mas largo aumento significativamente tanto el porcentaje
+de retencion de alquitran en el pulmon como el incremento pre- a post-fumado en COHb sanguinea,
+THC serico y frecuencia cardiaca, independientemente del volumen de puff y del numero de puffs."
+El volumen del puff por si solo no mostro efecto significativo sobre estas variables.
+
+NOTA RELEVANTE PARA EL DOSSIER: Este paper de Tashkin del mismo numero monografico de noviembre
+de 1991 de Pharmacology Biochemistry and Behavior es el que mejor se corresponde con el de la
+referencia AECANI. En ese mismo volumen 40(3) tambien aparece "Marijuana smoking, pulmonary function,
+and lung macrophage oxidant release" de Sherman MP, Roth MD, Gong H Jr, Tashkin DP (PMID 1666925,
+paginas 663-669).
+
+NOTA: Articulo bajo paywall en Elsevier. No disponible en PMC. Se conserva metadata completa para cita.

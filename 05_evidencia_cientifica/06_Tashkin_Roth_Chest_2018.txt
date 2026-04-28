@@ -1,0 +1,57 @@
+METADATOS - Articulo de revision sin acceso libre
+
+NOTA IMPORTANTE: La referencia AECANI cita "Tashkin D.P., Roth M.D. (2018) Pulmonary effects of
+inhaled cannabis smoke. Chest 2018." Esta cita combina dos articulos distintos:
+
+==========================================================================
+A) Articulo Tashkin solo en Chest 2018 (PMID 29778658)
+==========================================================================
+Titulo: Marijuana and Lung Disease
+Autor: Donald P. Tashkin
+Afiliacion: Division of Pulmonary and Critical Care Medicine, David Geffen School of Medicine at UCLA
+Revista: Chest
+Anio: 2018 (septiembre)
+Volumen / Numero: 154(3)
+Paginas: 653-663
+Publicacion electronica: 17 de mayo de 2018
+DOI: 10.1016/j.chest.2018.05.005
+PMID: 29778658
+URL abstract: https://pubmed.ncbi.nlm.nih.gov/29778658/
+URL editor (paywall): https://journal.chestnet.org/article/S0012-3692(18)30742-6/fulltext
+Sin version PMC libre.
+
+ABSTRACT:
+La mayoria de los estudios han encontrado una asociacion significativa entre fumar marihuana y los
+sintomas de bronquitis cronica tras ajustar por tabaco. Aunque los hallazgos son mixtos respecto a
+funcion pulmonar, ninguno mostro relacion con descenso de FEV1 y pocos hallaron relacion con
+descenso del cociente FEV1/FVC. Las biopsias bronquiales mostraron cambios pre-cancerosos pero los
+estudios epidemiologicos mas amplios no han establecido un vinculo definitivo entre cannabis y
+cancer de pulmon. Otros hallazgos: posible riesgo de neumonia por efectos inmunosupresores, casos
+documentados de neumotorax y enfermedad bullosa pulmonar.
+
+==========================================================================
+B) Articulo Tashkin & Roth en Am J Drug Alcohol Abuse 2019 (PMID 31298945)
+==========================================================================
+Titulo: Pulmonary effects of inhaled cannabis smoke (literalmente coincide con el titulo de la cita AECANI)
+Autores: Donald P. Tashkin, Michael D. Roth
+Revista: American Journal of Drug and Alcohol Abuse
+Anio: 2019 (no 2018)
+Volumen / Numero: 45(6)
+Paginas: 596-609
+DOI: 10.1080/00952990.2019.1627366
+PMID: 31298945
+URL abstract: https://pubmed.ncbi.nlm.nih.gov/31298945/
+Sin version PMC libre.
+
+ABSTRACT:
+Revision sobre como afecta el humo de cannabis a los pulmones. Hallazgos: "los carcinogenos y
+toxinas respiratorias en el humo de cannabis y tabaco son similares" pero fumar cannabis produce
+"exposicion por bocanada mas alta a alquitran inhalado y gases." Sintomas respiratorios comparables
+entre fumadores de cannabis y de tabaco (tos cronica, inflamacion de via aerea). Los autores
+concluyen que es dificil establecer conclusiones solidas sobre las consecuencias respiratorias del
+consumo regular de cannabis por la investigacion limitada y los factores de confusion (uso
+concomitante de tabaco).
+
+NOTA: Ambos articulos estan bajo paywall. Se recomienda al equipo de AECANI verificar cual de los
+dos era el referenciado originalmente; el titulo coincide con el de 2019 pero el ano dado por
+AECANI es 2018, lo que sugiere confusion con el de Chest 2018.
