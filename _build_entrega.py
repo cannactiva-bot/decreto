@@ -243,6 +243,16 @@ for src_name, dst_name in suiza_files.items():
         add(src_p, f'Anexos/09_Material_complementario/{dst_name}')
 add('07_aecani_interno/PNL_Comision_Agricultura_AEMPS_Kanavape_Rufian_Guijarro.pdf', 'Anexos/09_Material_complementario/A9.11_PNL_Comision_Agricultura_AEMPS_Kanavape.pdf')
 
+# === Bloque HHC y cannabinoides sinteticos (cf. seccion 4.5) ===
+add('07_aecani_interno/HHC_cannabinoides_sinteticos/BOE_Orden_SND_380_2025_HHC.pdf',
+    'Anexos/05_Marco_regulatorio_espanol/A5.11_Orden_SND_380-2025_HHC_Lista_II_RD_2829-1977.pdf')
+add('07_aecani_interno/HHC_cannabinoides_sinteticos/EMCDDA_Technical_Report_HHC_2023.pdf',
+    'Anexos/09_Material_complementario/A9.13_EMCDDA_Technical_Report_HHC_2023-05.pdf')
+add('07_aecani_interno/HHC_cannabinoides_sinteticos/PNSD_Dossier_Cannabinoides_Sinteticos_2025.pdf',
+    'Anexos/09_Material_complementario/A9.14_PNSD_Dossier_Cannabinoides_Sinteticos_2025-04-11.pdf')
+add('07_aecani_interno/HHC_cannabinoides_sinteticos/OEDA_InformeSEAT_ResumenEjecutivo_2025.pdf',
+    'Anexos/09_Material_complementario/A9.15_OEDA_SEAT_Resumen_Ejecutivo_2025.pdf')
+
 # === Ejecucion: copia ===
 print(f'[4/5] Copiando {len(mapping)} archivos a la estructura de entrega...')
 copied = 0
