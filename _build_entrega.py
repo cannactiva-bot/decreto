@@ -253,6 +253,12 @@ add('07_aecani_interno/HHC_cannabinoides_sinteticos/PNSD_Dossier_Cannabinoides_S
 add('07_aecani_interno/HHC_cannabinoides_sinteticos/OEDA_InformeSEAT_ResumenEjecutivo_2025.pdf',
     'Anexos/09_Material_complementario/A9.15_OEDA_SEAT_Resumen_Ejecutivo_2025.pdf')
 
+# === INSERCIÓN 16 · Sequeros 2003 + Conseil d'État 444887 ===
+add('03_marco_espana/15_Sequeros_Sazatornil_2003_semillas_cannabis_growshops_LaLey.pdf',
+    'Anexos/05_Marco_regulatorio_espanol/A5.12_Sequeros_Sazatornil_2003_semillas_cannabis_growshops_LaLey.pdf')
+add('06_derecho_comparado/francia/CE_decision_444887_2022-12-29.pdf',
+    'Anexos/04_Jurisprudencia_y_regimen_internacional/A4.6_Conseil_Etat_Francia_decision_444887_2022-12-29.pdf')
+
 # === Ejecucion: copia ===
 print(f'[4/5] Copiando {len(mapping)} archivos a la estructura de entrega...')
 copied = 0

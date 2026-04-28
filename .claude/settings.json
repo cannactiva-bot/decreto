@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash|PowerShell",
+        "hooks": [
+          {
+            "type": "command",
+            "shell": "bash",
+            "command": "bash \"C:/Users/micro/Desktop/cnmc/.claude/hooks/backup_v4.sh\"",
+            "timeout": 10,
+            "statusMessage": "Backup v4.docx si aplica"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Bash|PowerShell",
+        "hooks": [
+          {
+            "type": "command",
+            "shell": "bash",
+            "command": "bash \"C:/Users/micro/Desktop/cnmc/.claude/hooks/post_apply.sh\"",
+            "timeout": 180,
+            "statusMessage": "Auto convert PDF + rebuild ZIP"
+          }
+        ]
+      }
+    ]
+  }
+}
